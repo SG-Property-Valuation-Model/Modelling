@@ -1,0 +1,12 @@
+model_type,search_type,params,eval_rmse,test_rmse,eval_mape,test_mape
+SVR,bayesian,"['C=1.0', 'gamma=1.0', 'epsilon=0.0', 'kernel=poly']",1541.689872,6066.051002,7.734403855,7.985621214
+SVR,bayesian,"['C=1.00', 'gamma=0.10', 'epsilon=0.07', 'kernel=linear']",3117.775652,3153.471968,15.89669952,15.8153075
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

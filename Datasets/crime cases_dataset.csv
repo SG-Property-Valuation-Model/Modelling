@@ -1,0 +1,1921 @@
+year,npc,level_2,number (cases)
+2011,Central Police Division - Total,Robbery,50
+2011,Central Police Division - Total,Housebreaking,48
+2011,Central Police Division - Total,Snatch Theft,47
+2011,Central Police Division - Total,Theft Of Motor Vehicle,48
+2011,Central Police Division - Total,Outrage Of Modesty,180
+2011,Central Police Division - Bukit Merah East NPC,Robbery,15
+2011,Central Police Division - Bukit Merah East NPC,Housebreaking,13
+2011,Central Police Division - Bukit Merah East NPC,Snatch Theft,20
+2011,Central Police Division - Bukit Merah East NPC,Theft Of Motor Vehicle,18
+2011,Central Police Division - Bukit Merah East NPC,Outrage Of Modesty,58
+2011,Central Police Division - Marina Bay NPC,Robbery,12
+2011,Central Police Division - Marina Bay NPC,Housebreaking,18
+2011,Central Police Division - Marina Bay NPC,Snatch Theft,9
+2011,Central Police Division - Marina Bay NPC,Theft Of Motor Vehicle,9
+2011,Central Police Division - Marina Bay NPC,Outrage Of Modesty,77
+2011,Central Police Division - Rochor NPC,Robbery,23
+2011,Central Police Division - Rochor NPC,Housebreaking,17
+2011,Central Police Division - Rochor NPC,Snatch Theft,18
+2011,Central Police Division - Rochor NPC,Theft Of Motor Vehicle,21
+2011,Central Police Division - Rochor NPC,Outrage Of Modesty,45
+2011,Clementi Police Division - Total,Robbery,47
+2011,Clementi Police Division - Total,Housebreaking,85
+2011,Clementi Police Division - Total,Snatch Theft,30
+2011,Clementi Police Division - Total,Theft Of Motor Vehicle,65
+2011,Clementi Police Division - Total,Outrage Of Modesty,153
+2011,Clementi Police Division - Bukit Merah West NPC,Robbery,22
+2011,Clementi Police Division - Bukit Merah West NPC,Housebreaking,18
+2011,Clementi Police Division - Bukit Merah West NPC,Snatch Theft,12
+2011,Clementi Police Division - Bukit Merah West NPC,Theft Of Motor Vehicle,36
+2011,Clementi Police Division - Bukit Merah West NPC,Outrage Of Modesty,47
+2011,Clementi Police Division - Clementi NPC,Robbery,8
+2011,Clementi Police Division - Clementi NPC,Housebreaking,25
+2011,Clementi Police Division - Clementi NPC,Snatch Theft,6
+2011,Clementi Police Division - Clementi NPC,Theft Of Motor Vehicle,10
+2011,Clementi Police Division - Clementi NPC,Outrage Of Modesty,24
+2011,Clementi Police Division - Jurong East NPC,Robbery,9
+2011,Clementi Police Division - Jurong East NPC,Housebreaking,17
+2011,Clementi Police Division - Jurong East NPC,Snatch Theft,5
+2011,Clementi Police Division - Jurong East NPC,Theft Of Motor Vehicle,8
+2011,Clementi Police Division - Jurong East NPC,Outrage Of Modesty,44
+2011,Clementi Police Division - Queenstown NPC,Robbery,8
+2011,Clementi Police Division - Queenstown NPC,Housebreaking,25
+2011,Clementi Police Division - Queenstown NPC,Snatch Theft,7
+2011,Clementi Police Division - Queenstown NPC,Theft Of Motor Vehicle,11
+2011,Clementi Police Division - Queenstown NPC,Outrage Of Modesty,38
+2011,Tanglin Police Division - Total,Robbery,35
+2011,Tanglin Police Division - Total,Housebreaking,75
+2011,Tanglin Police Division - Total,Snatch Theft,42
+2011,Tanglin Police Division - Total,Theft Of Motor Vehicle,47
+2011,Tanglin Police Division - Total,Outrage Of Modesty,224
+2011,Tanglin Police Division - Bishan NPC,Robbery,6
+2011,Tanglin Police Division - Bishan NPC,Housebreaking,17
+2011,Tanglin Police Division - Bishan NPC,Snatch Theft,7
+2011,Tanglin Police Division - Bishan NPC,Theft Of Motor Vehicle,11
+2011,Tanglin Police Division - Bishan NPC,Outrage Of Modesty,26
+2011,Tanglin Police Division - Bukit Timah NPC,Robbery,1
+2011,Tanglin Police Division - Bukit Timah NPC,Housebreaking,7
+2011,Tanglin Police Division - Bukit Timah NPC,Snatch Theft,1
+2011,Tanglin Police Division - Bukit Timah NPC,Theft Of Motor Vehicle,8
+2011,Tanglin Police Division - Bukit Timah NPC,Outrage Of Modesty,15
+2011,Tanglin Police Division - Kampong Java NPC,Robbery,6
+2011,Tanglin Police Division - Kampong Java NPC,Housebreaking,8
+2011,Tanglin Police Division - Kampong Java NPC,Snatch Theft,7
+2011,Tanglin Police Division - Kampong Java NPC,Theft Of Motor Vehicle,5
+2011,Tanglin Police Division - Kampong Java NPC,Outrage Of Modesty,26
+2011,Tanglin Police Division - Orchard NPC,Robbery,10
+2011,Tanglin Police Division - Orchard NPC,Housebreaking,17
+2011,Tanglin Police Division - Orchard NPC,Snatch Theft,14
+2011,Tanglin Police Division - Orchard NPC,Theft Of Motor Vehicle,7
+2011,Tanglin Police Division - Orchard NPC,Outrage Of Modesty,108
+2011,Tanglin Police Division - Toa Payoh NPC,Robbery,12
+2011,Tanglin Police Division - Toa Payoh NPC,Housebreaking,26
+2011,Tanglin Police Division - Toa Payoh NPC,Snatch Theft,13
+2011,Tanglin Police Division - Toa Payoh NPC,Theft Of Motor Vehicle,16
+2011,Tanglin Police Division - Toa Payoh NPC,Outrage Of Modesty,49
+2011,Ang Mo Kio Police Division - Total,Robbery,66
+2011,Ang Mo Kio Police Division - Total,Housebreaking,120
+2011,Ang Mo Kio Police Division - Total,Snatch Theft,70
+2011,Ang Mo Kio Police Division - Total,Theft Of Motor Vehicle,118
+2011,Ang Mo Kio Police Division - Total,Outrage Of Modesty,251
+2011,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Robbery,10
+2011,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Housebreaking,18
+2011,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Snatch Theft,8
+2011,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Theft Of Motor Vehicle,13
+2011,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Outrage Of Modesty,25
+2011,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Robbery,12
+2011,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Housebreaking,10
+2011,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Snatch Theft,10
+2011,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Theft Of Motor Vehicle,8
+2011,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Outrage Of Modesty,19
+2011,Ang Mo Kio Police Division - Hougang NPC,Robbery,9
+2011,Ang Mo Kio Police Division - Hougang NPC,Housebreaking,23
+2011,Ang Mo Kio Police Division - Hougang NPC,Snatch Theft,13
+2011,Ang Mo Kio Police Division - Hougang NPC,Theft Of Motor Vehicle,28
+2011,Ang Mo Kio Police Division - Hougang NPC,Outrage Of Modesty,55
+2011,Ang Mo Kio Police Division - Punggol NPC,Robbery,na
+2011,Ang Mo Kio Police Division - Punggol NPC,Housebreaking,na
+2011,Ang Mo Kio Police Division - Punggol NPC,Snatch Theft,na
+2011,Ang Mo Kio Police Division - Punggol NPC,Theft Of Motor Vehicle,na
+2011,Ang Mo Kio Police Division - Punggol NPC,Outrage Of Modesty,na
+2011,Ang Mo Kio Police Division - Sembawang NPC,Robbery,6
+2011,Ang Mo Kio Police Division - Sembawang NPC,Housebreaking,4
+2011,Ang Mo Kio Police Division - Sembawang NPC,Snatch Theft,5
+2011,Ang Mo Kio Police Division - Sembawang NPC,Theft Of Motor Vehicle,3
+2011,Ang Mo Kio Police Division - Sembawang NPC,Outrage Of Modesty,21
+2011,Ang Mo Kio Police Division - Sengkang NPC,Robbery,7
+2011,Ang Mo Kio Police Division - Sengkang NPC,Housebreaking,20
+2011,Ang Mo Kio Police Division - Sengkang NPC,Snatch Theft,5
+2011,Ang Mo Kio Police Division - Sengkang NPC,Theft Of Motor Vehicle,36
+2011,Ang Mo Kio Police Division - Sengkang NPC,Outrage Of Modesty,47
+2011,Ang Mo Kio Police Division - Serangoon NPC,Robbery,7
+2011,Ang Mo Kio Police Division - Serangoon NPC,Housebreaking,17
+2011,Ang Mo Kio Police Division - Serangoon NPC,Snatch Theft,14
+2011,Ang Mo Kio Police Division - Serangoon NPC,Theft Of Motor Vehicle,12
+2011,Ang Mo Kio Police Division - Serangoon NPC,Outrage Of Modesty,22
+2011,Ang Mo Kio Police Division - Yishun North NPC,Robbery,13
+2011,Ang Mo Kio Police Division - Yishun North NPC,Housebreaking,20
+2011,Ang Mo Kio Police Division - Yishun North NPC,Snatch Theft,11
+2011,Ang Mo Kio Police Division - Yishun North NPC,Theft Of Motor Vehicle,11
+2011,Ang Mo Kio Police Division - Yishun North NPC,Outrage Of Modesty,36
+2011,Ang Mo Kio Police Division - Yishun South NPC,Robbery,2
+2011,Ang Mo Kio Police Division - Yishun South NPC,Housebreaking,8
+2011,Ang Mo Kio Police Division - Yishun South NPC,Snatch Theft,4
+2011,Ang Mo Kio Police Division - Yishun South NPC,Theft Of Motor Vehicle,7
+2011,Ang Mo Kio Police Division - Yishun South NPC,Outrage Of Modesty,26
+2011,Bedok Police Division - Total,Robbery,107
+2011,Bedok Police Division - Total,Housebreaking,139
+2011,Bedok Police Division - Total,Snatch Theft,99
+2011,Bedok Police Division - Total,Theft Of Motor Vehicle,201
+2011,Bedok Police Division - Total,Outrage Of Modesty,284
+2011,Bedok Police Division - Bedok North NPC,Robbery,15
+2011,Bedok Police Division - Bedok North NPC,Housebreaking,17
+2011,Bedok Police Division - Bedok North NPC,Snatch Theft,21
+2011,Bedok Police Division - Bedok North NPC,Theft Of Motor Vehicle,37
+2011,Bedok Police Division - Bedok North NPC,Outrage Of Modesty,40
+2011,Bedok Police Division - Bedok South NPC,Robbery,8
+2011,Bedok Police Division - Bedok South NPC,Housebreaking,16
+2011,Bedok Police Division - Bedok South NPC,Snatch Theft,3
+2011,Bedok Police Division - Bedok South NPC,Theft Of Motor Vehicle,23
+2011,Bedok Police Division - Bedok South NPC,Outrage Of Modesty,19
+2011,Bedok Police Division - Changi NPC,Robbery,6
+2011,Bedok Police Division - Changi NPC,Housebreaking,20
+2011,Bedok Police Division - Changi NPC,Snatch Theft,2
+2011,Bedok Police Division - Changi NPC,Theft Of Motor Vehicle,15
+2011,Bedok Police Division - Changi NPC,Outrage Of Modesty,33
+2011,Bedok Police Division - Geylang NPC,Robbery,44
+2011,Bedok Police Division - Geylang NPC,Housebreaking,36
+2011,Bedok Police Division - Geylang NPC,Snatch Theft,45
+2011,Bedok Police Division - Geylang NPC,Theft Of Motor Vehicle,62
+2011,Bedok Police Division - Geylang NPC,Outrage Of Modesty,73
+2011,Bedok Police Division - Marine Parade NPC,Robbery,8
+2011,Bedok Police Division - Marine Parade NPC,Housebreaking,14
+2011,Bedok Police Division - Marine Parade NPC,Snatch Theft,13
+2011,Bedok Police Division - Marine Parade NPC,Theft Of Motor Vehicle,16
+2011,Bedok Police Division - Marine Parade NPC,Outrage Of Modesty,26
+2011,Bedok Police Division - Pasir Ris NPC,Robbery,9
+2011,Bedok Police Division - Pasir Ris NPC,Housebreaking,9
+2011,Bedok Police Division - Pasir Ris NPC,Snatch Theft,5
+2011,Bedok Police Division - Pasir Ris NPC,Theft Of Motor Vehicle,17
+2011,Bedok Police Division - Pasir Ris NPC,Outrage Of Modesty,44
+2011,Bedok Police Division - Tampines NPC,Robbery,17
+2011,Bedok Police Division - Tampines NPC,Housebreaking,27
+2011,Bedok Police Division - Tampines NPC,Snatch Theft,10
+2011,Bedok Police Division - Tampines NPC,Theft Of Motor Vehicle,31
+2011,Bedok Police Division - Tampines NPC,Outrage Of Modesty,49
+2011,Jurong Police Division - Total,Robbery,87
+2011,Jurong Police Division - Total,Housebreaking,170
+2011,Jurong Police Division - Total,Snatch Theft,61
+2011,Jurong Police Division - Total,Theft Of Motor Vehicle,194
+2011,Jurong Police Division - Total,Outrage Of Modesty,287
+2011,Jurong Police Division - Bukit Batok NPC,Robbery,11
+2011,Jurong Police Division - Bukit Batok NPC,Housebreaking,33
+2011,Jurong Police Division - Bukit Batok NPC,Snatch Theft,9
+2011,Jurong Police Division - Bukit Batok NPC,Theft Of Motor Vehicle,21
+2011,Jurong Police Division - Bukit Batok NPC,Outrage Of Modesty,40
+2011,Jurong Police Division - Bukit Panjang NPC,Robbery,1
+2011,Jurong Police Division - Bukit Panjang NPC,Housebreaking,7
+2011,Jurong Police Division - Bukit Panjang NPC,Snatch Theft,7
+2011,Jurong Police Division - Bukit Panjang NPC,Theft Of Motor Vehicle,16
+2011,Jurong Police Division - Bukit Panjang NPC,Outrage Of Modesty,24
+2011,Jurong Police Division - Choa Chu Kang NPC,Robbery,13
+2011,Jurong Police Division - Choa Chu Kang NPC,Housebreaking,15
+2011,Jurong Police Division - Choa Chu Kang NPC,Snatch Theft,8
+2011,Jurong Police Division - Choa Chu Kang NPC,Theft Of Motor Vehicle,40
+2011,Jurong Police Division - Choa Chu Kang NPC,Outrage Of Modesty,44
+2011,Jurong Police Division - Jurong West NPC,Robbery,15
+2011,Jurong Police Division - Jurong West NPC,Housebreaking,25
+2011,Jurong Police Division - Jurong West NPC,Snatch Theft,9
+2011,Jurong Police Division - Jurong West NPC,Theft Of Motor Vehicle,32
+2011,Jurong Police Division - Jurong West NPC,Outrage Of Modesty,48
+2011,Jurong Police Division - Nanyang NPC,Robbery,18
+2011,Jurong Police Division - Nanyang NPC,Housebreaking,36
+2011,Jurong Police Division - Nanyang NPC,Snatch Theft,15
+2011,Jurong Police Division - Nanyang NPC,Theft Of Motor Vehicle,23
+2011,Jurong Police Division - Nanyang NPC,Outrage Of Modesty,48
+2011,Jurong Police Division - Woodlands NPC,Robbery,29
+2011,Jurong Police Division - Woodlands NPC,Housebreaking,54
+2011,Jurong Police Division - Woodlands NPC,Snatch Theft,13
+2011,Jurong Police Division - Woodlands NPC,Theft Of Motor Vehicle,62
+2011,Jurong Police Division - Woodlands NPC,Outrage Of Modesty,83
+2011,Jurong Police Division - Woodlands East NPC,Robbery,na
+2011,Jurong Police Division - Woodlands East NPC,Housebreaking,na
+2011,Jurong Police Division - Woodlands East NPC,Snatch Theft,na
+2011,Jurong Police Division - Woodlands East NPC,Theft Of Motor Vehicle,na
+2011,Jurong Police Division - Woodlands East NPC,Outrage Of Modesty,na
+2011,Jurong Police Division - Woodlands West NPC,Robbery,na
+2011,Jurong Police Division - Woodlands West NPC,Housebreaking,na
+2011,Jurong Police Division - Woodlands West NPC,Snatch Theft,na
+2011,Jurong Police Division - Woodlands West NPC,Theft Of Motor Vehicle,na
+2011,Jurong Police Division - Woodlands West NPC,Outrage Of Modesty,na
+2011,Woodlands Police Division - Total,Robbery,-
+2011,Woodlands Police Division - Total,Housebreaking,-
+2011,Woodlands Police Division - Total,Snatch Theft,-
+2011,Woodlands Police Division - Total,Theft Of Motor Vehicle,-
+2011,Woodlands Police Division - Total,Outrage Of Modesty,-
+2011,Woodlands Police Division - Woodlands East NPC,Robbery,-
+2011,Woodlands Police Division - Woodlands East NPC,Housebreaking,-
+2011,Woodlands Police Division - Woodlands East NPC,Snatch Theft,-
+2011,Woodlands Police Division - Woodlands East NPC,Theft Of Motor Vehicle,-
+2011,Woodlands Police Division - Woodlands East NPC,Outrage Of Modesty,-
+2011,Woodlands Police Division - Woodlands West NPC,Robbery,-
+2011,Woodlands Police Division - Woodlands West NPC,Housebreaking,-
+2011,Woodlands Police Division - Woodlands West NPC,Snatch Theft,-
+2011,Woodlands Police Division - Woodlands West NPC,Theft Of Motor Vehicle,-
+2011,Woodlands Police Division - Woodlands West NPC,Outrage Of Modesty,-
+2011,Woodlands Police Division - Yishun North NPC,Robbery,-
+2011,Woodlands Police Division - Yishun North NPC,Housebreaking,-
+2011,Woodlands Police Division - Yishun North NPC,Snatch Theft,-
+2011,Woodlands Police Division - Yishun North NPC,Theft Of Motor Vehicle,-
+2011,Woodlands Police Division - Yishun North NPC,Outrage Of Modesty,-
+2011,Woodlands Police Division - Yishun South NPC,Robbery,-
+2011,Woodlands Police Division - Yishun South NPC,Housebreaking,-
+2011,Woodlands Police Division - Yishun South NPC,Snatch Theft,-
+2011,Woodlands Police Division - Yishun South NPC,Theft Of Motor Vehicle,-
+2011,Woodlands Police Division - Yishun South NPC,Outrage Of Modesty,-
+2011,Woodlands Police Division - Sembawang NPC,Robbery,-
+2011,Woodlands Police Division - Sembawang NPC,Housebreaking,-
+2011,Woodlands Police Division - Sembawang NPC,Snatch Theft,-
+2011,Woodlands Police Division - Sembawang NPC,Theft Of Motor Vehicle,-
+2011,Woodlands Police Division - Sembawang NPC,Outrage Of Modesty,-
+2012,Central Police Division - Total,Robbery,34
+2012,Central Police Division - Total,Housebreaking,32
+2012,Central Police Division - Total,Snatch Theft,31
+2012,Central Police Division - Total,Theft Of Motor Vehicle,47
+2012,Central Police Division - Total,Outrage Of Modesty,193
+2012,Central Police Division - Bukit Merah East NPC,Robbery,8
+2012,Central Police Division - Bukit Merah East NPC,Housebreaking,9
+2012,Central Police Division - Bukit Merah East NPC,Snatch Theft,7
+2012,Central Police Division - Bukit Merah East NPC,Theft Of Motor Vehicle,12
+2012,Central Police Division - Bukit Merah East NPC,Outrage Of Modesty,48
+2012,Central Police Division - Marina Bay NPC,Robbery,8
+2012,Central Police Division - Marina Bay NPC,Housebreaking,6
+2012,Central Police Division - Marina Bay NPC,Snatch Theft,3
+2012,Central Police Division - Marina Bay NPC,Theft Of Motor Vehicle,4
+2012,Central Police Division - Marina Bay NPC,Outrage Of Modesty,85
+2012,Central Police Division - Rochor NPC,Robbery,18
+2012,Central Police Division - Rochor NPC,Housebreaking,17
+2012,Central Police Division - Rochor NPC,Snatch Theft,21
+2012,Central Police Division - Rochor NPC,Theft Of Motor Vehicle,31
+2012,Central Police Division - Rochor NPC,Outrage Of Modesty,60
+2012,Clementi Police Division - Total,Robbery,24
+2012,Clementi Police Division - Total,Housebreaking,92
+2012,Clementi Police Division - Total,Snatch Theft,27
+2012,Clementi Police Division - Total,Theft Of Motor Vehicle,60
+2012,Clementi Police Division - Total,Outrage Of Modesty,143
+2012,Clementi Police Division - Bukit Merah West NPC,Robbery,6
+2012,Clementi Police Division - Bukit Merah West NPC,Housebreaking,25
+2012,Clementi Police Division - Bukit Merah West NPC,Snatch Theft,6
+2012,Clementi Police Division - Bukit Merah West NPC,Theft Of Motor Vehicle,25
+2012,Clementi Police Division - Bukit Merah West NPC,Outrage Of Modesty,43
+2012,Clementi Police Division - Clementi NPC,Robbery,5
+2012,Clementi Police Division - Clementi NPC,Housebreaking,19
+2012,Clementi Police Division - Clementi NPC,Snatch Theft,7
+2012,Clementi Police Division - Clementi NPC,Theft Of Motor Vehicle,16
+2012,Clementi Police Division - Clementi NPC,Outrage Of Modesty,34
+2012,Clementi Police Division - Jurong East NPC,Robbery,9
+2012,Clementi Police Division - Jurong East NPC,Housebreaking,12
+2012,Clementi Police Division - Jurong East NPC,Snatch Theft,4
+2012,Clementi Police Division - Jurong East NPC,Theft Of Motor Vehicle,8
+2012,Clementi Police Division - Jurong East NPC,Outrage Of Modesty,34
+2012,Clementi Police Division - Queenstown NPC,Robbery,4
+2012,Clementi Police Division - Queenstown NPC,Housebreaking,36
+2012,Clementi Police Division - Queenstown NPC,Snatch Theft,10
+2012,Clementi Police Division - Queenstown NPC,Theft Of Motor Vehicle,11
+2012,Clementi Police Division - Queenstown NPC,Outrage Of Modesty,32
+2012,Tanglin Police Division - Total,Robbery,36
+2012,Tanglin Police Division - Total,Housebreaking,56
+2012,Tanglin Police Division - Total,Snatch Theft,33
+2012,Tanglin Police Division - Total,Theft Of Motor Vehicle,39
+2012,Tanglin Police Division - Total,Outrage Of Modesty,242
+2012,Tanglin Police Division - Bishan NPC,Robbery,1
+2012,Tanglin Police Division - Bishan NPC,Housebreaking,16
+2012,Tanglin Police Division - Bishan NPC,Snatch Theft,0
+2012,Tanglin Police Division - Bishan NPC,Theft Of Motor Vehicle,4
+2012,Tanglin Police Division - Bishan NPC,Outrage Of Modesty,22
+2012,Tanglin Police Division - Bukit Timah NPC,Robbery,2
+2012,Tanglin Police Division - Bukit Timah NPC,Housebreaking,11
+2012,Tanglin Police Division - Bukit Timah NPC,Snatch Theft,5
+2012,Tanglin Police Division - Bukit Timah NPC,Theft Of Motor Vehicle,2
+2012,Tanglin Police Division - Bukit Timah NPC,Outrage Of Modesty,28
+2012,Tanglin Police Division - Kampong Java NPC,Robbery,6
+2012,Tanglin Police Division - Kampong Java NPC,Housebreaking,9
+2012,Tanglin Police Division - Kampong Java NPC,Snatch Theft,3
+2012,Tanglin Police Division - Kampong Java NPC,Theft Of Motor Vehicle,17
+2012,Tanglin Police Division - Kampong Java NPC,Outrage Of Modesty,30
+2012,Tanglin Police Division - Orchard NPC,Robbery,15
+2012,Tanglin Police Division - Orchard NPC,Housebreaking,10
+2012,Tanglin Police Division - Orchard NPC,Snatch Theft,10
+2012,Tanglin Police Division - Orchard NPC,Theft Of Motor Vehicle,2
+2012,Tanglin Police Division - Orchard NPC,Outrage Of Modesty,125
+2012,Tanglin Police Division - Toa Payoh NPC,Robbery,12
+2012,Tanglin Police Division - Toa Payoh NPC,Housebreaking,10
+2012,Tanglin Police Division - Toa Payoh NPC,Snatch Theft,15
+2012,Tanglin Police Division - Toa Payoh NPC,Theft Of Motor Vehicle,14
+2012,Tanglin Police Division - Toa Payoh NPC,Outrage Of Modesty,37
+2012,Ang Mo Kio Police Division - Total,Robbery,46
+2012,Ang Mo Kio Police Division - Total,Housebreaking,121
+2012,Ang Mo Kio Police Division - Total,Snatch Theft,39
+2012,Ang Mo Kio Police Division - Total,Theft Of Motor Vehicle,140
+2012,Ang Mo Kio Police Division - Total,Outrage Of Modesty,234
+2012,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Robbery,5
+2012,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Housebreaking,12
+2012,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Snatch Theft,3
+2012,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Theft Of Motor Vehicle,13
+2012,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Outrage Of Modesty,28
+2012,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Robbery,9
+2012,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Housebreaking,7
+2012,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Snatch Theft,10
+2012,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Theft Of Motor Vehicle,21
+2012,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Outrage Of Modesty,24
+2012,Ang Mo Kio Police Division - Hougang NPC,Robbery,11
+2012,Ang Mo Kio Police Division - Hougang NPC,Housebreaking,23
+2012,Ang Mo Kio Police Division - Hougang NPC,Snatch Theft,7
+2012,Ang Mo Kio Police Division - Hougang NPC,Theft Of Motor Vehicle,30
+2012,Ang Mo Kio Police Division - Hougang NPC,Outrage Of Modesty,48
+2012,Ang Mo Kio Police Division - Punggol NPC,Robbery,na
+2012,Ang Mo Kio Police Division - Punggol NPC,Housebreaking,na
+2012,Ang Mo Kio Police Division - Punggol NPC,Snatch Theft,na
+2012,Ang Mo Kio Police Division - Punggol NPC,Theft Of Motor Vehicle,na
+2012,Ang Mo Kio Police Division - Punggol NPC,Outrage Of Modesty,na
+2012,Ang Mo Kio Police Division - Sembawang NPC,Robbery,5
+2012,Ang Mo Kio Police Division - Sembawang NPC,Housebreaking,12
+2012,Ang Mo Kio Police Division - Sembawang NPC,Snatch Theft,3
+2012,Ang Mo Kio Police Division - Sembawang NPC,Theft Of Motor Vehicle,6
+2012,Ang Mo Kio Police Division - Sembawang NPC,Outrage Of Modesty,31
+2012,Ang Mo Kio Police Division - Sengkang NPC,Robbery,3
+2012,Ang Mo Kio Police Division - Sengkang NPC,Housebreaking,9
+2012,Ang Mo Kio Police Division - Sengkang NPC,Snatch Theft,4
+2012,Ang Mo Kio Police Division - Sengkang NPC,Theft Of Motor Vehicle,37
+2012,Ang Mo Kio Police Division - Sengkang NPC,Outrage Of Modesty,34
+2012,Ang Mo Kio Police Division - Serangoon NPC,Robbery,3
+2012,Ang Mo Kio Police Division - Serangoon NPC,Housebreaking,28
+2012,Ang Mo Kio Police Division - Serangoon NPC,Snatch Theft,0
+2012,Ang Mo Kio Police Division - Serangoon NPC,Theft Of Motor Vehicle,9
+2012,Ang Mo Kio Police Division - Serangoon NPC,Outrage Of Modesty,26
+2012,Ang Mo Kio Police Division - Yishun North NPC,Robbery,6
+2012,Ang Mo Kio Police Division - Yishun North NPC,Housebreaking,13
+2012,Ang Mo Kio Police Division - Yishun North NPC,Snatch Theft,9
+2012,Ang Mo Kio Police Division - Yishun North NPC,Theft Of Motor Vehicle,17
+2012,Ang Mo Kio Police Division - Yishun North NPC,Outrage Of Modesty,27
+2012,Ang Mo Kio Police Division - Yishun South NPC,Robbery,4
+2012,Ang Mo Kio Police Division - Yishun South NPC,Housebreaking,17
+2012,Ang Mo Kio Police Division - Yishun South NPC,Snatch Theft,3
+2012,Ang Mo Kio Police Division - Yishun South NPC,Theft Of Motor Vehicle,7
+2012,Ang Mo Kio Police Division - Yishun South NPC,Outrage Of Modesty,16
+2012,Bedok Police Division - Total,Robbery,87
+2012,Bedok Police Division - Total,Housebreaking,138
+2012,Bedok Police Division - Total,Snatch Theft,74
+2012,Bedok Police Division - Total,Theft Of Motor Vehicle,157
+2012,Bedok Police Division - Total,Outrage Of Modesty,308
+2012,Bedok Police Division - Bedok North NPC,Robbery,15
+2012,Bedok Police Division - Bedok North NPC,Housebreaking,20
+2012,Bedok Police Division - Bedok North NPC,Snatch Theft,6
+2012,Bedok Police Division - Bedok North NPC,Theft Of Motor Vehicle,33
+2012,Bedok Police Division - Bedok North NPC,Outrage Of Modesty,45
+2012,Bedok Police Division - Bedok South NPC,Robbery,9
+2012,Bedok Police Division - Bedok South NPC,Housebreaking,29
+2012,Bedok Police Division - Bedok South NPC,Snatch Theft,8
+2012,Bedok Police Division - Bedok South NPC,Theft Of Motor Vehicle,19
+2012,Bedok Police Division - Bedok South NPC,Outrage Of Modesty,34
+2012,Bedok Police Division - Changi NPC,Robbery,3
+2012,Bedok Police Division - Changi NPC,Housebreaking,9
+2012,Bedok Police Division - Changi NPC,Snatch Theft,2
+2012,Bedok Police Division - Changi NPC,Theft Of Motor Vehicle,12
+2012,Bedok Police Division - Changi NPC,Outrage Of Modesty,33
+2012,Bedok Police Division - Geylang NPC,Robbery,42
+2012,Bedok Police Division - Geylang NPC,Housebreaking,53
+2012,Bedok Police Division - Geylang NPC,Snatch Theft,33
+2012,Bedok Police Division - Geylang NPC,Theft Of Motor Vehicle,50
+2012,Bedok Police Division - Geylang NPC,Outrage Of Modesty,95
+2012,Bedok Police Division - Marine Parade NPC,Robbery,4
+2012,Bedok Police Division - Marine Parade NPC,Housebreaking,11
+2012,Bedok Police Division - Marine Parade NPC,Snatch Theft,5
+2012,Bedok Police Division - Marine Parade NPC,Theft Of Motor Vehicle,5
+2012,Bedok Police Division - Marine Parade NPC,Outrage Of Modesty,27
+2012,Bedok Police Division - Pasir Ris NPC,Robbery,4
+2012,Bedok Police Division - Pasir Ris NPC,Housebreaking,7
+2012,Bedok Police Division - Pasir Ris NPC,Snatch Theft,9
+2012,Bedok Police Division - Pasir Ris NPC,Theft Of Motor Vehicle,13
+2012,Bedok Police Division - Pasir Ris NPC,Outrage Of Modesty,31
+2012,Bedok Police Division - Tampines NPC,Robbery,10
+2012,Bedok Police Division - Tampines NPC,Housebreaking,9
+2012,Bedok Police Division - Tampines NPC,Snatch Theft,11
+2012,Bedok Police Division - Tampines NPC,Theft Of Motor Vehicle,25
+2012,Bedok Police Division - Tampines NPC,Outrage Of Modesty,43
+2012,Jurong Police Division - Total,Robbery,57
+2012,Jurong Police Division - Total,Housebreaking,106
+2012,Jurong Police Division - Total,Snatch Theft,82
+2012,Jurong Police Division - Total,Theft Of Motor Vehicle,141
+2012,Jurong Police Division - Total,Outrage Of Modesty,278
+2012,Jurong Police Division - Bukit Batok NPC,Robbery,6
+2012,Jurong Police Division - Bukit Batok NPC,Housebreaking,8
+2012,Jurong Police Division - Bukit Batok NPC,Snatch Theft,11
+2012,Jurong Police Division - Bukit Batok NPC,Theft Of Motor Vehicle,17
+2012,Jurong Police Division - Bukit Batok NPC,Outrage Of Modesty,25
+2012,Jurong Police Division - Bukit Panjang NPC,Robbery,0
+2012,Jurong Police Division - Bukit Panjang NPC,Housebreaking,12
+2012,Jurong Police Division - Bukit Panjang NPC,Snatch Theft,7
+2012,Jurong Police Division - Bukit Panjang NPC,Theft Of Motor Vehicle,10
+2012,Jurong Police Division - Bukit Panjang NPC,Outrage Of Modesty,27
+2012,Jurong Police Division - Choa Chu Kang NPC,Robbery,12
+2012,Jurong Police Division - Choa Chu Kang NPC,Housebreaking,6
+2012,Jurong Police Division - Choa Chu Kang NPC,Snatch Theft,8
+2012,Jurong Police Division - Choa Chu Kang NPC,Theft Of Motor Vehicle,16
+2012,Jurong Police Division - Choa Chu Kang NPC,Outrage Of Modesty,40
+2012,Jurong Police Division - Jurong West NPC,Robbery,7
+2012,Jurong Police Division - Jurong West NPC,Housebreaking,29
+2012,Jurong Police Division - Jurong West NPC,Snatch Theft,22
+2012,Jurong Police Division - Jurong West NPC,Theft Of Motor Vehicle,20
+2012,Jurong Police Division - Jurong West NPC,Outrage Of Modesty,52
+2012,Jurong Police Division - Nanyang NPC,Robbery,11
+2012,Jurong Police Division - Nanyang NPC,Housebreaking,25
+2012,Jurong Police Division - Nanyang NPC,Snatch Theft,12
+2012,Jurong Police Division - Nanyang NPC,Theft Of Motor Vehicle,14
+2012,Jurong Police Division - Nanyang NPC,Outrage Of Modesty,35
+2012,Jurong Police Division - Woodlands NPC,Robbery,na
+2012,Jurong Police Division - Woodlands NPC,Housebreaking,na
+2012,Jurong Police Division - Woodlands NPC,Snatch Theft,na
+2012,Jurong Police Division - Woodlands NPC,Theft Of Motor Vehicle,na
+2012,Jurong Police Division - Woodlands NPC,Outrage Of Modesty,na
+2012,Jurong Police Division - Woodlands East NPC,Robbery,8
+2012,Jurong Police Division - Woodlands East NPC,Housebreaking,12
+2012,Jurong Police Division - Woodlands East NPC,Snatch Theft,9
+2012,Jurong Police Division - Woodlands East NPC,Theft Of Motor Vehicle,27
+2012,Jurong Police Division - Woodlands East NPC,Outrage Of Modesty,58
+2012,Jurong Police Division - Woodlands West NPC,Robbery,13
+2012,Jurong Police Division - Woodlands West NPC,Housebreaking,14
+2012,Jurong Police Division - Woodlands West NPC,Snatch Theft,13
+2012,Jurong Police Division - Woodlands West NPC,Theft Of Motor Vehicle,37
+2012,Jurong Police Division - Woodlands West NPC,Outrage Of Modesty,41
+2012,Woodlands Police Division - Total,Robbery,-
+2012,Woodlands Police Division - Total,Housebreaking,-
+2012,Woodlands Police Division - Total,Snatch Theft,-
+2012,Woodlands Police Division - Total,Theft Of Motor Vehicle,-
+2012,Woodlands Police Division - Total,Outrage Of Modesty,-
+2012,Woodlands Police Division - Woodlands East NPC,Robbery,-
+2012,Woodlands Police Division - Woodlands East NPC,Housebreaking,-
+2012,Woodlands Police Division - Woodlands East NPC,Snatch Theft,-
+2012,Woodlands Police Division - Woodlands East NPC,Theft Of Motor Vehicle,-
+2012,Woodlands Police Division - Woodlands East NPC,Outrage Of Modesty,-
+2012,Woodlands Police Division - Woodlands West NPC,Robbery,-
+2012,Woodlands Police Division - Woodlands West NPC,Housebreaking,-
+2012,Woodlands Police Division - Woodlands West NPC,Snatch Theft,-
+2012,Woodlands Police Division - Woodlands West NPC,Theft Of Motor Vehicle,-
+2012,Woodlands Police Division - Woodlands West NPC,Outrage Of Modesty,-
+2012,Woodlands Police Division - Yishun North NPC,Robbery,-
+2012,Woodlands Police Division - Yishun North NPC,Housebreaking,-
+2012,Woodlands Police Division - Yishun North NPC,Snatch Theft,-
+2012,Woodlands Police Division - Yishun North NPC,Theft Of Motor Vehicle,-
+2012,Woodlands Police Division - Yishun North NPC,Outrage Of Modesty,-
+2012,Woodlands Police Division - Yishun South NPC,Robbery,-
+2012,Woodlands Police Division - Yishun South NPC,Housebreaking,-
+2012,Woodlands Police Division - Yishun South NPC,Snatch Theft,-
+2012,Woodlands Police Division - Yishun South NPC,Theft Of Motor Vehicle,-
+2012,Woodlands Police Division - Yishun South NPC,Outrage Of Modesty,-
+2012,Woodlands Police Division - Sembawang NPC,Robbery,-
+2012,Woodlands Police Division - Sembawang NPC,Housebreaking,-
+2012,Woodlands Police Division - Sembawang NPC,Snatch Theft,-
+2012,Woodlands Police Division - Sembawang NPC,Theft Of Motor Vehicle,-
+2012,Woodlands Police Division - Sembawang NPC,Outrage Of Modesty,-
+2013,Central Police Division - Total,Robbery,37
+2013,Central Police Division - Total,Housebreaking,49
+2013,Central Police Division - Total,Snatch Theft,36
+2013,Central Police Division - Total,Theft Of Motor Vehicle,25
+2013,Central Police Division - Total,Outrage Of Modesty,186
+2013,Central Police Division - Bukit Merah East NPC,Robbery,6
+2013,Central Police Division - Bukit Merah East NPC,Housebreaking,7
+2013,Central Police Division - Bukit Merah East NPC,Snatch Theft,13
+2013,Central Police Division - Bukit Merah East NPC,Theft Of Motor Vehicle,9
+2013,Central Police Division - Bukit Merah East NPC,Outrage Of Modesty,60
+2013,Central Police Division - Marina Bay NPC,Robbery,5
+2013,Central Police Division - Marina Bay NPC,Housebreaking,9
+2013,Central Police Division - Marina Bay NPC,Snatch Theft,6
+2013,Central Police Division - Marina Bay NPC,Theft Of Motor Vehicle,2
+2013,Central Police Division - Marina Bay NPC,Outrage Of Modesty,70
+2013,Central Police Division - Rochor NPC,Robbery,26
+2013,Central Police Division - Rochor NPC,Housebreaking,33
+2013,Central Police Division - Rochor NPC,Snatch Theft,17
+2013,Central Police Division - Rochor NPC,Theft Of Motor Vehicle,14
+2013,Central Police Division - Rochor NPC,Outrage Of Modesty,56
+2013,Clementi Police Division - Total,Robbery,23
+2013,Clementi Police Division - Total,Housebreaking,69
+2013,Clementi Police Division - Total,Snatch Theft,19
+2013,Clementi Police Division - Total,Theft Of Motor Vehicle,43
+2013,Clementi Police Division - Total,Outrage Of Modesty,145
+2013,Clementi Police Division - Bukit Merah West NPC,Robbery,6
+2013,Clementi Police Division - Bukit Merah West NPC,Housebreaking,17
+2013,Clementi Police Division - Bukit Merah West NPC,Snatch Theft,4
+2013,Clementi Police Division - Bukit Merah West NPC,Theft Of Motor Vehicle,17
+2013,Clementi Police Division - Bukit Merah West NPC,Outrage Of Modesty,38
+2013,Clementi Police Division - Clementi NPC,Robbery,8
+2013,Clementi Police Division - Clementi NPC,Housebreaking,10
+2013,Clementi Police Division - Clementi NPC,Snatch Theft,3
+2013,Clementi Police Division - Clementi NPC,Theft Of Motor Vehicle,6
+2013,Clementi Police Division - Clementi NPC,Outrage Of Modesty,33
+2013,Clementi Police Division - Jurong East NPC,Robbery,5
+2013,Clementi Police Division - Jurong East NPC,Housebreaking,9
+2013,Clementi Police Division - Jurong East NPC,Snatch Theft,5
+2013,Clementi Police Division - Jurong East NPC,Theft Of Motor Vehicle,9
+2013,Clementi Police Division - Jurong East NPC,Outrage Of Modesty,45
+2013,Clementi Police Division - Queenstown NPC,Robbery,4
+2013,Clementi Police Division - Queenstown NPC,Housebreaking,33
+2013,Clementi Police Division - Queenstown NPC,Snatch Theft,7
+2013,Clementi Police Division - Queenstown NPC,Theft Of Motor Vehicle,11
+2013,Clementi Police Division - Queenstown NPC,Outrage Of Modesty,29
+2013,Tanglin Police Division - Total,Robbery,31
+2013,Tanglin Police Division - Total,Housebreaking,79
+2013,Tanglin Police Division - Total,Snatch Theft,17
+2013,Tanglin Police Division - Total,Theft Of Motor Vehicle,35
+2013,Tanglin Police Division - Total,Outrage Of Modesty,208
+2013,Tanglin Police Division - Bishan NPC,Robbery,6
+2013,Tanglin Police Division - Bishan NPC,Housebreaking,9
+2013,Tanglin Police Division - Bishan NPC,Snatch Theft,4
+2013,Tanglin Police Division - Bishan NPC,Theft Of Motor Vehicle,5
+2013,Tanglin Police Division - Bishan NPC,Outrage Of Modesty,33
+2013,Tanglin Police Division - Bukit Timah NPC,Robbery,1
+2013,Tanglin Police Division - Bukit Timah NPC,Housebreaking,14
+2013,Tanglin Police Division - Bukit Timah NPC,Snatch Theft,2
+2013,Tanglin Police Division - Bukit Timah NPC,Theft Of Motor Vehicle,4
+2013,Tanglin Police Division - Bukit Timah NPC,Outrage Of Modesty,17
+2013,Tanglin Police Division - Kampong Java NPC,Robbery,15
+2013,Tanglin Police Division - Kampong Java NPC,Housebreaking,13
+2013,Tanglin Police Division - Kampong Java NPC,Snatch Theft,2
+2013,Tanglin Police Division - Kampong Java NPC,Theft Of Motor Vehicle,4
+2013,Tanglin Police Division - Kampong Java NPC,Outrage Of Modesty,29
+2013,Tanglin Police Division - Orchard NPC,Robbery,7
+2013,Tanglin Police Division - Orchard NPC,Housebreaking,13
+2013,Tanglin Police Division - Orchard NPC,Snatch Theft,7
+2013,Tanglin Police Division - Orchard NPC,Theft Of Motor Vehicle,6
+2013,Tanglin Police Division - Orchard NPC,Outrage Of Modesty,102
+2013,Tanglin Police Division - Toa Payoh NPC,Robbery,2
+2013,Tanglin Police Division - Toa Payoh NPC,Housebreaking,30
+2013,Tanglin Police Division - Toa Payoh NPC,Snatch Theft,2
+2013,Tanglin Police Division - Toa Payoh NPC,Theft Of Motor Vehicle,16
+2013,Tanglin Police Division - Toa Payoh NPC,Outrage Of Modesty,27
+2013,Ang Mo Kio Police Division - Total,Robbery,40
+2013,Ang Mo Kio Police Division - Total,Housebreaking,47
+2013,Ang Mo Kio Police Division - Total,Snatch Theft,26
+2013,Ang Mo Kio Police Division - Total,Theft Of Motor Vehicle,77
+2013,Ang Mo Kio Police Division - Total,Outrage Of Modesty,213
+2013,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Robbery,4
+2013,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Housebreaking,8
+2013,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Snatch Theft,5
+2013,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Theft Of Motor Vehicle,5
+2013,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Outrage Of Modesty,20
+2013,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Robbery,5
+2013,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Housebreaking,0
+2013,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Snatch Theft,5
+2013,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Theft Of Motor Vehicle,5
+2013,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Outrage Of Modesty,20
+2013,Ang Mo Kio Police Division - Hougang NPC,Robbery,10
+2013,Ang Mo Kio Police Division - Hougang NPC,Housebreaking,15
+2013,Ang Mo Kio Police Division - Hougang NPC,Snatch Theft,5
+2013,Ang Mo Kio Police Division - Hougang NPC,Theft Of Motor Vehicle,17
+2013,Ang Mo Kio Police Division - Hougang NPC,Outrage Of Modesty,37
+2013,Ang Mo Kio Police Division - Punggol NPC,Robbery,2
+2013,Ang Mo Kio Police Division - Punggol NPC,Housebreaking,1
+2013,Ang Mo Kio Police Division - Punggol NPC,Snatch Theft,0
+2013,Ang Mo Kio Police Division - Punggol NPC,Theft Of Motor Vehicle,5
+2013,Ang Mo Kio Police Division - Punggol NPC,Outrage Of Modesty,12
+2013,Ang Mo Kio Police Division - Sembawang NPC,Robbery,3
+2013,Ang Mo Kio Police Division - Sembawang NPC,Housebreaking,2
+2013,Ang Mo Kio Police Division - Sembawang NPC,Snatch Theft,1
+2013,Ang Mo Kio Police Division - Sembawang NPC,Theft Of Motor Vehicle,12
+2013,Ang Mo Kio Police Division - Sembawang NPC,Outrage Of Modesty,13
+2013,Ang Mo Kio Police Division - Sengkang NPC,Robbery,6
+2013,Ang Mo Kio Police Division - Sengkang NPC,Housebreaking,3
+2013,Ang Mo Kio Police Division - Sengkang NPC,Snatch Theft,2
+2013,Ang Mo Kio Police Division - Sengkang NPC,Theft Of Motor Vehicle,12
+2013,Ang Mo Kio Police Division - Sengkang NPC,Outrage Of Modesty,31
+2013,Ang Mo Kio Police Division - Serangoon NPC,Robbery,4
+2013,Ang Mo Kio Police Division - Serangoon NPC,Housebreaking,8
+2013,Ang Mo Kio Police Division - Serangoon NPC,Snatch Theft,0
+2013,Ang Mo Kio Police Division - Serangoon NPC,Theft Of Motor Vehicle,3
+2013,Ang Mo Kio Police Division - Serangoon NPC,Outrage Of Modesty,20
+2013,Ang Mo Kio Police Division - Yishun North NPC,Robbery,3
+2013,Ang Mo Kio Police Division - Yishun North NPC,Housebreaking,7
+2013,Ang Mo Kio Police Division - Yishun North NPC,Snatch Theft,7
+2013,Ang Mo Kio Police Division - Yishun North NPC,Theft Of Motor Vehicle,14
+2013,Ang Mo Kio Police Division - Yishun North NPC,Outrage Of Modesty,43
+2013,Ang Mo Kio Police Division - Yishun South NPC,Robbery,3
+2013,Ang Mo Kio Police Division - Yishun South NPC,Housebreaking,3
+2013,Ang Mo Kio Police Division - Yishun South NPC,Snatch Theft,1
+2013,Ang Mo Kio Police Division - Yishun South NPC,Theft Of Motor Vehicle,4
+2013,Ang Mo Kio Police Division - Yishun South NPC,Outrage Of Modesty,17
+2013,Bedok Police Division - Total,Robbery,70
+2013,Bedok Police Division - Total,Housebreaking,140
+2013,Bedok Police Division - Total,Snatch Theft,95
+2013,Bedok Police Division - Total,Theft Of Motor Vehicle,123
+2013,Bedok Police Division - Total,Outrage Of Modesty,267
+2013,Bedok Police Division - Bedok North NPC,Robbery,6
+2013,Bedok Police Division - Bedok North NPC,Housebreaking,15
+2013,Bedok Police Division - Bedok North NPC,Snatch Theft,15
+2013,Bedok Police Division - Bedok North NPC,Theft Of Motor Vehicle,37
+2013,Bedok Police Division - Bedok North NPC,Outrage Of Modesty,35
+2013,Bedok Police Division - Bedok South NPC,Robbery,3
+2013,Bedok Police Division - Bedok South NPC,Housebreaking,18
+2013,Bedok Police Division - Bedok South NPC,Snatch Theft,8
+2013,Bedok Police Division - Bedok South NPC,Theft Of Motor Vehicle,6
+2013,Bedok Police Division - Bedok South NPC,Outrage Of Modesty,30
+2013,Bedok Police Division - Changi NPC,Robbery,4
+2013,Bedok Police Division - Changi NPC,Housebreaking,14
+2013,Bedok Police Division - Changi NPC,Snatch Theft,9
+2013,Bedok Police Division - Changi NPC,Theft Of Motor Vehicle,10
+2013,Bedok Police Division - Changi NPC,Outrage Of Modesty,31
+2013,Bedok Police Division - Geylang NPC,Robbery,47
+2013,Bedok Police Division - Geylang NPC,Housebreaking,60
+2013,Bedok Police Division - Geylang NPC,Snatch Theft,40
+2013,Bedok Police Division - Geylang NPC,Theft Of Motor Vehicle,33
+2013,Bedok Police Division - Geylang NPC,Outrage Of Modesty,54
+2013,Bedok Police Division - Marine Parade NPC,Robbery,2
+2013,Bedok Police Division - Marine Parade NPC,Housebreaking,20
+2013,Bedok Police Division - Marine Parade NPC,Snatch Theft,6
+2013,Bedok Police Division - Marine Parade NPC,Theft Of Motor Vehicle,6
+2013,Bedok Police Division - Marine Parade NPC,Outrage Of Modesty,28
+2013,Bedok Police Division - Pasir Ris NPC,Robbery,2
+2013,Bedok Police Division - Pasir Ris NPC,Housebreaking,2
+2013,Bedok Police Division - Pasir Ris NPC,Snatch Theft,4
+2013,Bedok Police Division - Pasir Ris NPC,Theft Of Motor Vehicle,12
+2013,Bedok Police Division - Pasir Ris NPC,Outrage Of Modesty,39
+2013,Bedok Police Division - Tampines NPC,Robbery,6
+2013,Bedok Police Division - Tampines NPC,Housebreaking,11
+2013,Bedok Police Division - Tampines NPC,Snatch Theft,13
+2013,Bedok Police Division - Tampines NPC,Theft Of Motor Vehicle,19
+2013,Bedok Police Division - Tampines NPC,Outrage Of Modesty,50
+2013,Jurong Police Division - Total,Robbery,50
+2013,Jurong Police Division - Total,Housebreaking,123
+2013,Jurong Police Division - Total,Snatch Theft,46
+2013,Jurong Police Division - Total,Theft Of Motor Vehicle,101
+2013,Jurong Police Division - Total,Outrage Of Modesty,294
+2013,Jurong Police Division - Bukit Batok NPC,Robbery,5
+2013,Jurong Police Division - Bukit Batok NPC,Housebreaking,15
+2013,Jurong Police Division - Bukit Batok NPC,Snatch Theft,8
+2013,Jurong Police Division - Bukit Batok NPC,Theft Of Motor Vehicle,9
+2013,Jurong Police Division - Bukit Batok NPC,Outrage Of Modesty,37
+2013,Jurong Police Division - Bukit Panjang NPC,Robbery,3
+2013,Jurong Police Division - Bukit Panjang NPC,Housebreaking,7
+2013,Jurong Police Division - Bukit Panjang NPC,Snatch Theft,3
+2013,Jurong Police Division - Bukit Panjang NPC,Theft Of Motor Vehicle,3
+2013,Jurong Police Division - Bukit Panjang NPC,Outrage Of Modesty,33
+2013,Jurong Police Division - Choa Chu Kang NPC,Robbery,10
+2013,Jurong Police Division - Choa Chu Kang NPC,Housebreaking,13
+2013,Jurong Police Division - Choa Chu Kang NPC,Snatch Theft,8
+2013,Jurong Police Division - Choa Chu Kang NPC,Theft Of Motor Vehicle,18
+2013,Jurong Police Division - Choa Chu Kang NPC,Outrage Of Modesty,46
+2013,Jurong Police Division - Jurong West NPC,Robbery,5
+2013,Jurong Police Division - Jurong West NPC,Housebreaking,24
+2013,Jurong Police Division - Jurong West NPC,Snatch Theft,6
+2013,Jurong Police Division - Jurong West NPC,Theft Of Motor Vehicle,13
+2013,Jurong Police Division - Jurong West NPC,Outrage Of Modesty,49
+2013,Jurong Police Division - Nanyang NPC,Robbery,11
+2013,Jurong Police Division - Nanyang NPC,Housebreaking,32
+2013,Jurong Police Division - Nanyang NPC,Snatch Theft,9
+2013,Jurong Police Division - Nanyang NPC,Theft Of Motor Vehicle,26
+2013,Jurong Police Division - Nanyang NPC,Outrage Of Modesty,41
+2013,Jurong Police Division - Woodlands NPC,Robbery,na
+2013,Jurong Police Division - Woodlands NPC,Housebreaking,na
+2013,Jurong Police Division - Woodlands NPC,Snatch Theft,na
+2013,Jurong Police Division - Woodlands NPC,Theft Of Motor Vehicle,na
+2013,Jurong Police Division - Woodlands NPC,Outrage Of Modesty,na
+2013,Jurong Police Division - Woodlands East NPC,Robbery,5
+2013,Jurong Police Division - Woodlands East NPC,Housebreaking,22
+2013,Jurong Police Division - Woodlands East NPC,Snatch Theft,7
+2013,Jurong Police Division - Woodlands East NPC,Theft Of Motor Vehicle,15
+2013,Jurong Police Division - Woodlands East NPC,Outrage Of Modesty,44
+2013,Jurong Police Division - Woodlands West NPC,Robbery,11
+2013,Jurong Police Division - Woodlands West NPC,Housebreaking,10
+2013,Jurong Police Division - Woodlands West NPC,Snatch Theft,5
+2013,Jurong Police Division - Woodlands West NPC,Theft Of Motor Vehicle,17
+2013,Jurong Police Division - Woodlands West NPC,Outrage Of Modesty,44
+2013,Woodlands Police Division - Total,Robbery,-
+2013,Woodlands Police Division - Total,Housebreaking,-
+2013,Woodlands Police Division - Total,Snatch Theft,-
+2013,Woodlands Police Division - Total,Theft Of Motor Vehicle,-
+2013,Woodlands Police Division - Total,Outrage Of Modesty,-
+2013,Woodlands Police Division - Woodlands East NPC,Robbery,-
+2013,Woodlands Police Division - Woodlands East NPC,Housebreaking,-
+2013,Woodlands Police Division - Woodlands East NPC,Snatch Theft,-
+2013,Woodlands Police Division - Woodlands East NPC,Theft Of Motor Vehicle,-
+2013,Woodlands Police Division - Woodlands East NPC,Outrage Of Modesty,-
+2013,Woodlands Police Division - Woodlands West NPC,Robbery,-
+2013,Woodlands Police Division - Woodlands West NPC,Housebreaking,-
+2013,Woodlands Police Division - Woodlands West NPC,Snatch Theft,-
+2013,Woodlands Police Division - Woodlands West NPC,Theft Of Motor Vehicle,-
+2013,Woodlands Police Division - Woodlands West NPC,Outrage Of Modesty,-
+2013,Woodlands Police Division - Yishun North NPC,Robbery,-
+2013,Woodlands Police Division - Yishun North NPC,Housebreaking,-
+2013,Woodlands Police Division - Yishun North NPC,Snatch Theft,-
+2013,Woodlands Police Division - Yishun North NPC,Theft Of Motor Vehicle,-
+2013,Woodlands Police Division - Yishun North NPC,Outrage Of Modesty,-
+2013,Woodlands Police Division - Yishun South NPC,Robbery,-
+2013,Woodlands Police Division - Yishun South NPC,Housebreaking,-
+2013,Woodlands Police Division - Yishun South NPC,Snatch Theft,-
+2013,Woodlands Police Division - Yishun South NPC,Theft Of Motor Vehicle,-
+2013,Woodlands Police Division - Yishun South NPC,Outrage Of Modesty,-
+2013,Woodlands Police Division - Sembawang NPC,Robbery,-
+2013,Woodlands Police Division - Sembawang NPC,Housebreaking,-
+2013,Woodlands Police Division - Sembawang NPC,Snatch Theft,-
+2013,Woodlands Police Division - Sembawang NPC,Theft Of Motor Vehicle,-
+2013,Woodlands Police Division - Sembawang NPC,Outrage Of Modesty,-
+2014,Central Police Division - Total,Robbery,26
+2014,Central Police Division - Total,Housebreaking,40
+2014,Central Police Division - Total,Snatch Theft,24
+2014,Central Police Division - Total,Theft Of Motor Vehicle,33
+2014,Central Police Division - Total,Outrage Of Modesty,219
+2014,Central Police Division - Bukit Merah East NPC,Robbery,7
+2014,Central Police Division - Bukit Merah East NPC,Housebreaking,17
+2014,Central Police Division - Bukit Merah East NPC,Snatch Theft,10
+2014,Central Police Division - Bukit Merah East NPC,Theft Of Motor Vehicle,12
+2014,Central Police Division - Bukit Merah East NPC,Outrage Of Modesty,57
+2014,Central Police Division - Marina Bay NPC,Robbery,2
+2014,Central Police Division - Marina Bay NPC,Housebreaking,10
+2014,Central Police Division - Marina Bay NPC,Snatch Theft,5
+2014,Central Police Division - Marina Bay NPC,Theft Of Motor Vehicle,1
+2014,Central Police Division - Marina Bay NPC,Outrage Of Modesty,95
+2014,Central Police Division - Rochor NPC,Robbery,17
+2014,Central Police Division - Rochor NPC,Housebreaking,13
+2014,Central Police Division - Rochor NPC,Snatch Theft,9
+2014,Central Police Division - Rochor NPC,Theft Of Motor Vehicle,20
+2014,Central Police Division - Rochor NPC,Outrage Of Modesty,67
+2014,Clementi Police Division - Total,Robbery,25
+2014,Clementi Police Division - Total,Housebreaking,49
+2014,Clementi Police Division - Total,Snatch Theft,17
+2014,Clementi Police Division - Total,Theft Of Motor Vehicle,19
+2014,Clementi Police Division - Total,Outrage Of Modesty,152
+2014,Clementi Police Division - Bukit Merah West NPC,Robbery,12
+2014,Clementi Police Division - Bukit Merah West NPC,Housebreaking,8
+2014,Clementi Police Division - Bukit Merah West NPC,Snatch Theft,4
+2014,Clementi Police Division - Bukit Merah West NPC,Theft Of Motor Vehicle,9
+2014,Clementi Police Division - Bukit Merah West NPC,Outrage Of Modesty,33
+2014,Clementi Police Division - Clementi NPC,Robbery,3
+2014,Clementi Police Division - Clementi NPC,Housebreaking,20
+2014,Clementi Police Division - Clementi NPC,Snatch Theft,7
+2014,Clementi Police Division - Clementi NPC,Theft Of Motor Vehicle,4
+2014,Clementi Police Division - Clementi NPC,Outrage Of Modesty,37
+2014,Clementi Police Division - Jurong East NPC,Robbery,9
+2014,Clementi Police Division - Jurong East NPC,Housebreaking,7
+2014,Clementi Police Division - Jurong East NPC,Snatch Theft,4
+2014,Clementi Police Division - Jurong East NPC,Theft Of Motor Vehicle,2
+2014,Clementi Police Division - Jurong East NPC,Outrage Of Modesty,46
+2014,Clementi Police Division - Queenstown NPC,Robbery,1
+2014,Clementi Police Division - Queenstown NPC,Housebreaking,14
+2014,Clementi Police Division - Queenstown NPC,Snatch Theft,2
+2014,Clementi Police Division - Queenstown NPC,Theft Of Motor Vehicle,4
+2014,Clementi Police Division - Queenstown NPC,Outrage Of Modesty,36
+2014,Tanglin Police Division - Total,Robbery,30
+2014,Tanglin Police Division - Total,Housebreaking,47
+2014,Tanglin Police Division - Total,Snatch Theft,16
+2014,Tanglin Police Division - Total,Theft Of Motor Vehicle,28
+2014,Tanglin Police Division - Total,Outrage Of Modesty,203
+2014,Tanglin Police Division - Bishan NPC,Robbery,3
+2014,Tanglin Police Division - Bishan NPC,Housebreaking,9
+2014,Tanglin Police Division - Bishan NPC,Snatch Theft,2
+2014,Tanglin Police Division - Bishan NPC,Theft Of Motor Vehicle,5
+2014,Tanglin Police Division - Bishan NPC,Outrage Of Modesty,16
+2014,Tanglin Police Division - Bukit Timah NPC,Robbery,4
+2014,Tanglin Police Division - Bukit Timah NPC,Housebreaking,8
+2014,Tanglin Police Division - Bukit Timah NPC,Snatch Theft,4
+2014,Tanglin Police Division - Bukit Timah NPC,Theft Of Motor Vehicle,3
+2014,Tanglin Police Division - Bukit Timah NPC,Outrage Of Modesty,21
+2014,Tanglin Police Division - Kampong Java NPC,Robbery,6
+2014,Tanglin Police Division - Kampong Java NPC,Housebreaking,10
+2014,Tanglin Police Division - Kampong Java NPC,Snatch Theft,6
+2014,Tanglin Police Division - Kampong Java NPC,Theft Of Motor Vehicle,5
+2014,Tanglin Police Division - Kampong Java NPC,Outrage Of Modesty,24
+2014,Tanglin Police Division - Orchard NPC,Robbery,8
+2014,Tanglin Police Division - Orchard NPC,Housebreaking,11
+2014,Tanglin Police Division - Orchard NPC,Snatch Theft,4
+2014,Tanglin Police Division - Orchard NPC,Theft Of Motor Vehicle,7
+2014,Tanglin Police Division - Orchard NPC,Outrage Of Modesty,108
+2014,Tanglin Police Division - Toa Payoh NPC,Robbery,9
+2014,Tanglin Police Division - Toa Payoh NPC,Housebreaking,9
+2014,Tanglin Police Division - Toa Payoh NPC,Snatch Theft,0
+2014,Tanglin Police Division - Toa Payoh NPC,Theft Of Motor Vehicle,8
+2014,Tanglin Police Division - Toa Payoh NPC,Outrage Of Modesty,34
+2014,Ang Mo Kio Police Division - Total,Robbery,31
+2014,Ang Mo Kio Police Division - Total,Housebreaking,39
+2014,Ang Mo Kio Police Division - Total,Snatch Theft,20
+2014,Ang Mo Kio Police Division - Total,Theft Of Motor Vehicle,43
+2014,Ang Mo Kio Police Division - Total,Outrage Of Modesty,233
+2014,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Robbery,1
+2014,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Housebreaking,3
+2014,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Snatch Theft,4
+2014,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Theft Of Motor Vehicle,4
+2014,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Outrage Of Modesty,33
+2014,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Robbery,4
+2014,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Housebreaking,7
+2014,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Snatch Theft,3
+2014,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Theft Of Motor Vehicle,5
+2014,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Outrage Of Modesty,22
+2014,Ang Mo Kio Police Division - Hougang NPC,Robbery,3
+2014,Ang Mo Kio Police Division - Hougang NPC,Housebreaking,9
+2014,Ang Mo Kio Police Division - Hougang NPC,Snatch Theft,2
+2014,Ang Mo Kio Police Division - Hougang NPC,Theft Of Motor Vehicle,9
+2014,Ang Mo Kio Police Division - Hougang NPC,Outrage Of Modesty,32
+2014,Ang Mo Kio Police Division - Punggol NPC,Robbery,0
+2014,Ang Mo Kio Police Division - Punggol NPC,Housebreaking,1
+2014,Ang Mo Kio Police Division - Punggol NPC,Snatch Theft,1
+2014,Ang Mo Kio Police Division - Punggol NPC,Theft Of Motor Vehicle,5
+2014,Ang Mo Kio Police Division - Punggol NPC,Outrage Of Modesty,7
+2014,Ang Mo Kio Police Division - Sembawang NPC,Robbery,8
+2014,Ang Mo Kio Police Division - Sembawang NPC,Housebreaking,2
+2014,Ang Mo Kio Police Division - Sembawang NPC,Snatch Theft,2
+2014,Ang Mo Kio Police Division - Sembawang NPC,Theft Of Motor Vehicle,4
+2014,Ang Mo Kio Police Division - Sembawang NPC,Outrage Of Modesty,18
+2014,Ang Mo Kio Police Division - Sengkang NPC,Robbery,7
+2014,Ang Mo Kio Police Division - Sengkang NPC,Housebreaking,4
+2014,Ang Mo Kio Police Division - Sengkang NPC,Snatch Theft,2
+2014,Ang Mo Kio Police Division - Sengkang NPC,Theft Of Motor Vehicle,4
+2014,Ang Mo Kio Police Division - Sengkang NPC,Outrage Of Modesty,40
+2014,Ang Mo Kio Police Division - Serangoon NPC,Robbery,2
+2014,Ang Mo Kio Police Division - Serangoon NPC,Housebreaking,6
+2014,Ang Mo Kio Police Division - Serangoon NPC,Snatch Theft,3
+2014,Ang Mo Kio Police Division - Serangoon NPC,Theft Of Motor Vehicle,6
+2014,Ang Mo Kio Police Division - Serangoon NPC,Outrage Of Modesty,29
+2014,Ang Mo Kio Police Division - Yishun North NPC,Robbery,4
+2014,Ang Mo Kio Police Division - Yishun North NPC,Housebreaking,3
+2014,Ang Mo Kio Police Division - Yishun North NPC,Snatch Theft,3
+2014,Ang Mo Kio Police Division - Yishun North NPC,Theft Of Motor Vehicle,3
+2014,Ang Mo Kio Police Division - Yishun North NPC,Outrage Of Modesty,37
+2014,Ang Mo Kio Police Division - Yishun South NPC,Robbery,2
+2014,Ang Mo Kio Police Division - Yishun South NPC,Housebreaking,4
+2014,Ang Mo Kio Police Division - Yishun South NPC,Snatch Theft,0
+2014,Ang Mo Kio Police Division - Yishun South NPC,Theft Of Motor Vehicle,3
+2014,Ang Mo Kio Police Division - Yishun South NPC,Outrage Of Modesty,15
+2014,Bedok Police Division - Total,Robbery,71
+2014,Bedok Police Division - Total,Housebreaking,94
+2014,Bedok Police Division - Total,Snatch Theft,43
+2014,Bedok Police Division - Total,Theft Of Motor Vehicle,84
+2014,Bedok Police Division - Total,Outrage Of Modesty,270
+2014,Bedok Police Division - Bedok North NPC,Robbery,15
+2014,Bedok Police Division - Bedok North NPC,Housebreaking,17
+2014,Bedok Police Division - Bedok North NPC,Snatch Theft,7
+2014,Bedok Police Division - Bedok North NPC,Theft Of Motor Vehicle,11
+2014,Bedok Police Division - Bedok North NPC,Outrage Of Modesty,45
+2014,Bedok Police Division - Bedok South NPC,Robbery,1
+2014,Bedok Police Division - Bedok South NPC,Housebreaking,11
+2014,Bedok Police Division - Bedok South NPC,Snatch Theft,7
+2014,Bedok Police Division - Bedok South NPC,Theft Of Motor Vehicle,5
+2014,Bedok Police Division - Bedok South NPC,Outrage Of Modesty,31
+2014,Bedok Police Division - Changi NPC,Robbery,3
+2014,Bedok Police Division - Changi NPC,Housebreaking,5
+2014,Bedok Police Division - Changi NPC,Snatch Theft,2
+2014,Bedok Police Division - Changi NPC,Theft Of Motor Vehicle,12
+2014,Bedok Police Division - Changi NPC,Outrage Of Modesty,26
+2014,Bedok Police Division - Geylang NPC,Robbery,39
+2014,Bedok Police Division - Geylang NPC,Housebreaking,25
+2014,Bedok Police Division - Geylang NPC,Snatch Theft,22
+2014,Bedok Police Division - Geylang NPC,Theft Of Motor Vehicle,32
+2014,Bedok Police Division - Geylang NPC,Outrage Of Modesty,73
+2014,Bedok Police Division - Marine Parade NPC,Robbery,1
+2014,Bedok Police Division - Marine Parade NPC,Housebreaking,10
+2014,Bedok Police Division - Marine Parade NPC,Snatch Theft,2
+2014,Bedok Police Division - Marine Parade NPC,Theft Of Motor Vehicle,1
+2014,Bedok Police Division - Marine Parade NPC,Outrage Of Modesty,25
+2014,Bedok Police Division - Pasir Ris NPC,Robbery,5
+2014,Bedok Police Division - Pasir Ris NPC,Housebreaking,13
+2014,Bedok Police Division - Pasir Ris NPC,Snatch Theft,0
+2014,Bedok Police Division - Pasir Ris NPC,Theft Of Motor Vehicle,6
+2014,Bedok Police Division - Pasir Ris NPC,Outrage Of Modesty,25
+2014,Bedok Police Division - Tampines NPC,Robbery,7
+2014,Bedok Police Division - Tampines NPC,Housebreaking,13
+2014,Bedok Police Division - Tampines NPC,Snatch Theft,3
+2014,Bedok Police Division - Tampines NPC,Theft Of Motor Vehicle,17
+2014,Bedok Police Division - Tampines NPC,Outrage Of Modesty,45
+2014,Jurong Police Division - Total,Robbery,47
+2014,Jurong Police Division - Total,Housebreaking,41
+2014,Jurong Police Division - Total,Snatch Theft,45
+2014,Jurong Police Division - Total,Theft Of Motor Vehicle,107
+2014,Jurong Police Division - Total,Outrage Of Modesty,284
+2014,Jurong Police Division - Bukit Batok NPC,Robbery,3
+2014,Jurong Police Division - Bukit Batok NPC,Housebreaking,7
+2014,Jurong Police Division - Bukit Batok NPC,Snatch Theft,1
+2014,Jurong Police Division - Bukit Batok NPC,Theft Of Motor Vehicle,4
+2014,Jurong Police Division - Bukit Batok NPC,Outrage Of Modesty,29
+2014,Jurong Police Division - Bukit Panjang NPC,Robbery,6
+2014,Jurong Police Division - Bukit Panjang NPC,Housebreaking,5
+2014,Jurong Police Division - Bukit Panjang NPC,Snatch Theft,6
+2014,Jurong Police Division - Bukit Panjang NPC,Theft Of Motor Vehicle,5
+2014,Jurong Police Division - Bukit Panjang NPC,Outrage Of Modesty,22
+2014,Jurong Police Division - Choa Chu Kang NPC,Robbery,2
+2014,Jurong Police Division - Choa Chu Kang NPC,Housebreaking,3
+2014,Jurong Police Division - Choa Chu Kang NPC,Snatch Theft,5
+2014,Jurong Police Division - Choa Chu Kang NPC,Theft Of Motor Vehicle,16
+2014,Jurong Police Division - Choa Chu Kang NPC,Outrage Of Modesty,34
+2014,Jurong Police Division - Jurong West NPC,Robbery,6
+2014,Jurong Police Division - Jurong West NPC,Housebreaking,4
+2014,Jurong Police Division - Jurong West NPC,Snatch Theft,9
+2014,Jurong Police Division - Jurong West NPC,Theft Of Motor Vehicle,22
+2014,Jurong Police Division - Jurong West NPC,Outrage Of Modesty,59
+2014,Jurong Police Division - Nanyang NPC,Robbery,9
+2014,Jurong Police Division - Nanyang NPC,Housebreaking,5
+2014,Jurong Police Division - Nanyang NPC,Snatch Theft,3
+2014,Jurong Police Division - Nanyang NPC,Theft Of Motor Vehicle,8
+2014,Jurong Police Division - Nanyang NPC,Outrage Of Modesty,53
+2014,Jurong Police Division - Woodlands NPC,Robbery,na
+2014,Jurong Police Division - Woodlands NPC,Housebreaking,na
+2014,Jurong Police Division - Woodlands NPC,Snatch Theft,na
+2014,Jurong Police Division - Woodlands NPC,Theft Of Motor Vehicle,na
+2014,Jurong Police Division - Woodlands NPC,Outrage Of Modesty,na
+2014,Jurong Police Division - Woodlands East NPC,Robbery,11
+2014,Jurong Police Division - Woodlands East NPC,Housebreaking,4
+2014,Jurong Police Division - Woodlands East NPC,Snatch Theft,14
+2014,Jurong Police Division - Woodlands East NPC,Theft Of Motor Vehicle,35
+2014,Jurong Police Division - Woodlands East NPC,Outrage Of Modesty,43
+2014,Jurong Police Division - Woodlands West NPC,Robbery,10
+2014,Jurong Police Division - Woodlands West NPC,Housebreaking,13
+2014,Jurong Police Division - Woodlands West NPC,Snatch Theft,7
+2014,Jurong Police Division - Woodlands West NPC,Theft Of Motor Vehicle,17
+2014,Jurong Police Division - Woodlands West NPC,Outrage Of Modesty,44
+2014,Woodlands Police Division - Total,Robbery,-
+2014,Woodlands Police Division - Total,Housebreaking,-
+2014,Woodlands Police Division - Total,Snatch Theft,-
+2014,Woodlands Police Division - Total,Theft Of Motor Vehicle,-
+2014,Woodlands Police Division - Total,Outrage Of Modesty,-
+2014,Woodlands Police Division - Woodlands East NPC,Robbery,-
+2014,Woodlands Police Division - Woodlands East NPC,Housebreaking,-
+2014,Woodlands Police Division - Woodlands East NPC,Snatch Theft,-
+2014,Woodlands Police Division - Woodlands East NPC,Theft Of Motor Vehicle,-
+2014,Woodlands Police Division - Woodlands East NPC,Outrage Of Modesty,-
+2014,Woodlands Police Division - Woodlands West NPC,Robbery,-
+2014,Woodlands Police Division - Woodlands West NPC,Housebreaking,-
+2014,Woodlands Police Division - Woodlands West NPC,Snatch Theft,-
+2014,Woodlands Police Division - Woodlands West NPC,Theft Of Motor Vehicle,-
+2014,Woodlands Police Division - Woodlands West NPC,Outrage Of Modesty,-
+2014,Woodlands Police Division - Yishun North NPC,Robbery,-
+2014,Woodlands Police Division - Yishun North NPC,Housebreaking,-
+2014,Woodlands Police Division - Yishun North NPC,Snatch Theft,-
+2014,Woodlands Police Division - Yishun North NPC,Theft Of Motor Vehicle,-
+2014,Woodlands Police Division - Yishun North NPC,Outrage Of Modesty,-
+2014,Woodlands Police Division - Yishun South NPC,Robbery,-
+2014,Woodlands Police Division - Yishun South NPC,Housebreaking,-
+2014,Woodlands Police Division - Yishun South NPC,Snatch Theft,-
+2014,Woodlands Police Division - Yishun South NPC,Theft Of Motor Vehicle,-
+2014,Woodlands Police Division - Yishun South NPC,Outrage Of Modesty,-
+2014,Woodlands Police Division - Sembawang NPC,Robbery,-
+2014,Woodlands Police Division - Sembawang NPC,Housebreaking,-
+2014,Woodlands Police Division - Sembawang NPC,Snatch Theft,-
+2014,Woodlands Police Division - Sembawang NPC,Theft Of Motor Vehicle,-
+2014,Woodlands Police Division - Sembawang NPC,Outrage Of Modesty,-
+2015,Central Police Division - Total,Robbery,21
+2015,Central Police Division - Total,Housebreaking,33
+2015,Central Police Division - Total,Snatch Theft,19
+2015,Central Police Division - Total,Theft Of Motor Vehicle,25
+2015,Central Police Division - Total,Outrage Of Modesty,206
+2015,Central Police Division - Bukit Merah East NPC,Robbery,3
+2015,Central Police Division - Bukit Merah East NPC,Housebreaking,12
+2015,Central Police Division - Bukit Merah East NPC,Snatch Theft,6
+2015,Central Police Division - Bukit Merah East NPC,Theft Of Motor Vehicle,8
+2015,Central Police Division - Bukit Merah East NPC,Outrage Of Modesty,54
+2015,Central Police Division - Marina Bay NPC,Robbery,4
+2015,Central Police Division - Marina Bay NPC,Housebreaking,11
+2015,Central Police Division - Marina Bay NPC,Snatch Theft,3
+2015,Central Police Division - Marina Bay NPC,Theft Of Motor Vehicle,2
+2015,Central Police Division - Marina Bay NPC,Outrage Of Modesty,92
+2015,Central Police Division - Rochor NPC,Robbery,14
+2015,Central Police Division - Rochor NPC,Housebreaking,10
+2015,Central Police Division - Rochor NPC,Snatch Theft,10
+2015,Central Police Division - Rochor NPC,Theft Of Motor Vehicle,15
+2015,Central Police Division - Rochor NPC,Outrage Of Modesty,60
+2015,Clementi Police Division - Total,Robbery,9
+2015,Clementi Police Division - Total,Housebreaking,22
+2015,Clementi Police Division - Total,Snatch Theft,13
+2015,Clementi Police Division - Total,Theft Of Motor Vehicle,25
+2015,Clementi Police Division - Total,Outrage Of Modesty,137
+2015,Clementi Police Division - Bukit Merah West NPC,Robbery,2
+2015,Clementi Police Division - Bukit Merah West NPC,Housebreaking,5
+2015,Clementi Police Division - Bukit Merah West NPC,Snatch Theft,2
+2015,Clementi Police Division - Bukit Merah West NPC,Theft Of Motor Vehicle,7
+2015,Clementi Police Division - Bukit Merah West NPC,Outrage Of Modesty,32
+2015,Clementi Police Division - Clementi NPC,Robbery,3
+2015,Clementi Police Division - Clementi NPC,Housebreaking,6
+2015,Clementi Police Division - Clementi NPC,Snatch Theft,3
+2015,Clementi Police Division - Clementi NPC,Theft Of Motor Vehicle,7
+2015,Clementi Police Division - Clementi NPC,Outrage Of Modesty,35
+2015,Clementi Police Division - Jurong East NPC,Robbery,2
+2015,Clementi Police Division - Jurong East NPC,Housebreaking,6
+2015,Clementi Police Division - Jurong East NPC,Snatch Theft,5
+2015,Clementi Police Division - Jurong East NPC,Theft Of Motor Vehicle,8
+2015,Clementi Police Division - Jurong East NPC,Outrage Of Modesty,31
+2015,Clementi Police Division - Queenstown NPC,Robbery,2
+2015,Clementi Police Division - Queenstown NPC,Housebreaking,5
+2015,Clementi Police Division - Queenstown NPC,Snatch Theft,3
+2015,Clementi Police Division - Queenstown NPC,Theft Of Motor Vehicle,3
+2015,Clementi Police Division - Queenstown NPC,Outrage Of Modesty,39
+2015,Tanglin Police Division - Total,Robbery,15
+2015,Tanglin Police Division - Total,Housebreaking,32
+2015,Tanglin Police Division - Total,Snatch Theft,8
+2015,Tanglin Police Division - Total,Theft Of Motor Vehicle,14
+2015,Tanglin Police Division - Total,Outrage Of Modesty,191
+2015,Tanglin Police Division - Bishan NPC,Robbery,1
+2015,Tanglin Police Division - Bishan NPC,Housebreaking,5
+2015,Tanglin Police Division - Bishan NPC,Snatch Theft,3
+2015,Tanglin Police Division - Bishan NPC,Theft Of Motor Vehicle,3
+2015,Tanglin Police Division - Bishan NPC,Outrage Of Modesty,17
+2015,Tanglin Police Division - Bukit Timah NPC,Robbery,1
+2015,Tanglin Police Division - Bukit Timah NPC,Housebreaking,7
+2015,Tanglin Police Division - Bukit Timah NPC,Snatch Theft,0
+2015,Tanglin Police Division - Bukit Timah NPC,Theft Of Motor Vehicle,2
+2015,Tanglin Police Division - Bukit Timah NPC,Outrage Of Modesty,19
+2015,Tanglin Police Division - Kampong Java NPC,Robbery,6
+2015,Tanglin Police Division - Kampong Java NPC,Housebreaking,6
+2015,Tanglin Police Division - Kampong Java NPC,Snatch Theft,2
+2015,Tanglin Police Division - Kampong Java NPC,Theft Of Motor Vehicle,1
+2015,Tanglin Police Division - Kampong Java NPC,Outrage Of Modesty,28
+2015,Tanglin Police Division - Orchard NPC,Robbery,6
+2015,Tanglin Police Division - Orchard NPC,Housebreaking,5
+2015,Tanglin Police Division - Orchard NPC,Snatch Theft,3
+2015,Tanglin Police Division - Orchard NPC,Theft Of Motor Vehicle,1
+2015,Tanglin Police Division - Orchard NPC,Outrage Of Modesty,93
+2015,Tanglin Police Division - Toa Payoh NPC,Robbery,1
+2015,Tanglin Police Division - Toa Payoh NPC,Housebreaking,9
+2015,Tanglin Police Division - Toa Payoh NPC,Snatch Theft,0
+2015,Tanglin Police Division - Toa Payoh NPC,Theft Of Motor Vehicle,7
+2015,Tanglin Police Division - Toa Payoh NPC,Outrage Of Modesty,34
+2015,Ang Mo Kio Police Division - Total,Robbery,12
+2015,Ang Mo Kio Police Division - Total,Housebreaking,35
+2015,Ang Mo Kio Police Division - Total,Snatch Theft,16
+2015,Ang Mo Kio Police Division - Total,Theft Of Motor Vehicle,65
+2015,Ang Mo Kio Police Division - Total,Outrage Of Modesty,252
+2015,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Robbery,0
+2015,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Housebreaking,3
+2015,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Snatch Theft,2
+2015,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Theft Of Motor Vehicle,4
+2015,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Outrage Of Modesty,22
+2015,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Robbery,3
+2015,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Housebreaking,3
+2015,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Snatch Theft,1
+2015,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Theft Of Motor Vehicle,8
+2015,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Outrage Of Modesty,24
+2015,Ang Mo Kio Police Division - Hougang NPC,Robbery,4
+2015,Ang Mo Kio Police Division - Hougang NPC,Housebreaking,10
+2015,Ang Mo Kio Police Division - Hougang NPC,Snatch Theft,7
+2015,Ang Mo Kio Police Division - Hougang NPC,Theft Of Motor Vehicle,21
+2015,Ang Mo Kio Police Division - Hougang NPC,Outrage Of Modesty,53
+2015,Ang Mo Kio Police Division - Punggol NPC,Robbery,1
+2015,Ang Mo Kio Police Division - Punggol NPC,Housebreaking,1
+2015,Ang Mo Kio Police Division - Punggol NPC,Snatch Theft,1
+2015,Ang Mo Kio Police Division - Punggol NPC,Theft Of Motor Vehicle,3
+2015,Ang Mo Kio Police Division - Punggol NPC,Outrage Of Modesty,19
+2015,Ang Mo Kio Police Division - Sembawang NPC,Robbery,1
+2015,Ang Mo Kio Police Division - Sembawang NPC,Housebreaking,0
+2015,Ang Mo Kio Police Division - Sembawang NPC,Snatch Theft,1
+2015,Ang Mo Kio Police Division - Sembawang NPC,Theft Of Motor Vehicle,1
+2015,Ang Mo Kio Police Division - Sembawang NPC,Outrage Of Modesty,14
+2015,Ang Mo Kio Police Division - Sengkang NPC,Robbery,1
+2015,Ang Mo Kio Police Division - Sengkang NPC,Housebreaking,6
+2015,Ang Mo Kio Police Division - Sengkang NPC,Snatch Theft,2
+2015,Ang Mo Kio Police Division - Sengkang NPC,Theft Of Motor Vehicle,10
+2015,Ang Mo Kio Police Division - Sengkang NPC,Outrage Of Modesty,32
+2015,Ang Mo Kio Police Division - Serangoon NPC,Robbery,0
+2015,Ang Mo Kio Police Division - Serangoon NPC,Housebreaking,4
+2015,Ang Mo Kio Police Division - Serangoon NPC,Snatch Theft,0
+2015,Ang Mo Kio Police Division - Serangoon NPC,Theft Of Motor Vehicle,3
+2015,Ang Mo Kio Police Division - Serangoon NPC,Outrage Of Modesty,27
+2015,Ang Mo Kio Police Division - Yishun North NPC,Robbery,1
+2015,Ang Mo Kio Police Division - Yishun North NPC,Housebreaking,6
+2015,Ang Mo Kio Police Division - Yishun North NPC,Snatch Theft,1
+2015,Ang Mo Kio Police Division - Yishun North NPC,Theft Of Motor Vehicle,10
+2015,Ang Mo Kio Police Division - Yishun North NPC,Outrage Of Modesty,31
+2015,Ang Mo Kio Police Division - Yishun South NPC,Robbery,1
+2015,Ang Mo Kio Police Division - Yishun South NPC,Housebreaking,2
+2015,Ang Mo Kio Police Division - Yishun South NPC,Snatch Theft,1
+2015,Ang Mo Kio Police Division - Yishun South NPC,Theft Of Motor Vehicle,5
+2015,Ang Mo Kio Police Division - Yishun South NPC,Outrage Of Modesty,30
+2015,Bedok Police Division - Total,Robbery,54
+2015,Bedok Police Division - Total,Housebreaking,67
+2015,Bedok Police Division - Total,Snatch Theft,17
+2015,Bedok Police Division - Total,Theft Of Motor Vehicle,89
+2015,Bedok Police Division - Total,Outrage Of Modesty,211
+2015,Bedok Police Division - Bedok North NPC,Robbery,3
+2015,Bedok Police Division - Bedok North NPC,Housebreaking,8
+2015,Bedok Police Division - Bedok North NPC,Snatch Theft,1
+2015,Bedok Police Division - Bedok North NPC,Theft Of Motor Vehicle,13
+2015,Bedok Police Division - Bedok North NPC,Outrage Of Modesty,40
+2015,Bedok Police Division - Bedok South NPC,Robbery,3
+2015,Bedok Police Division - Bedok South NPC,Housebreaking,10
+2015,Bedok Police Division - Bedok South NPC,Snatch Theft,2
+2015,Bedok Police Division - Bedok South NPC,Theft Of Motor Vehicle,6
+2015,Bedok Police Division - Bedok South NPC,Outrage Of Modesty,17
+2015,Bedok Police Division - Changi NPC,Robbery,0
+2015,Bedok Police Division - Changi NPC,Housebreaking,3
+2015,Bedok Police Division - Changi NPC,Snatch Theft,0
+2015,Bedok Police Division - Changi NPC,Theft Of Motor Vehicle,9
+2015,Bedok Police Division - Changi NPC,Outrage Of Modesty,24
+2015,Bedok Police Division - Geylang NPC,Robbery,39
+2015,Bedok Police Division - Geylang NPC,Housebreaking,20
+2015,Bedok Police Division - Geylang NPC,Snatch Theft,7
+2015,Bedok Police Division - Geylang NPC,Theft Of Motor Vehicle,31
+2015,Bedok Police Division - Geylang NPC,Outrage Of Modesty,46
+2015,Bedok Police Division - Marine Parade NPC,Robbery,0
+2015,Bedok Police Division - Marine Parade NPC,Housebreaking,17
+2015,Bedok Police Division - Marine Parade NPC,Snatch Theft,3
+2015,Bedok Police Division - Marine Parade NPC,Theft Of Motor Vehicle,3
+2015,Bedok Police Division - Marine Parade NPC,Outrage Of Modesty,24
+2015,Bedok Police Division - Pasir Ris NPC,Robbery,1
+2015,Bedok Police Division - Pasir Ris NPC,Housebreaking,4
+2015,Bedok Police Division - Pasir Ris NPC,Snatch Theft,0
+2015,Bedok Police Division - Pasir Ris NPC,Theft Of Motor Vehicle,6
+2015,Bedok Police Division - Pasir Ris NPC,Outrage Of Modesty,22
+2015,Bedok Police Division - Tampines NPC,Robbery,8
+2015,Bedok Police Division - Tampines NPC,Housebreaking,5
+2015,Bedok Police Division - Tampines NPC,Snatch Theft,4
+2015,Bedok Police Division - Tampines NPC,Theft Of Motor Vehicle,21
+2015,Bedok Police Division - Tampines NPC,Outrage Of Modesty,38
+2015,Jurong Police Division - Total,Robbery,12
+2015,Jurong Police Division - Total,Housebreaking,61
+2015,Jurong Police Division - Total,Snatch Theft,11
+2015,Jurong Police Division - Total,Theft Of Motor Vehicle,83
+2015,Jurong Police Division - Total,Outrage Of Modesty,288
+2015,Jurong Police Division - Bukit Batok NPC,Robbery,0
+2015,Jurong Police Division - Bukit Batok NPC,Housebreaking,7
+2015,Jurong Police Division - Bukit Batok NPC,Snatch Theft,0
+2015,Jurong Police Division - Bukit Batok NPC,Theft Of Motor Vehicle,3
+2015,Jurong Police Division - Bukit Batok NPC,Outrage Of Modesty,44
+2015,Jurong Police Division - Bukit Panjang NPC,Robbery,0
+2015,Jurong Police Division - Bukit Panjang NPC,Housebreaking,12
+2015,Jurong Police Division - Bukit Panjang NPC,Snatch Theft,1
+2015,Jurong Police Division - Bukit Panjang NPC,Theft Of Motor Vehicle,5
+2015,Jurong Police Division - Bukit Panjang NPC,Outrage Of Modesty,29
+2015,Jurong Police Division - Choa Chu Kang NPC,Robbery,2
+2015,Jurong Police Division - Choa Chu Kang NPC,Housebreaking,11
+2015,Jurong Police Division - Choa Chu Kang NPC,Snatch Theft,0
+2015,Jurong Police Division - Choa Chu Kang NPC,Theft Of Motor Vehicle,15
+2015,Jurong Police Division - Choa Chu Kang NPC,Outrage Of Modesty,52
+2015,Jurong Police Division - Jurong West NPC,Robbery,0
+2015,Jurong Police Division - Jurong West NPC,Housebreaking,14
+2015,Jurong Police Division - Jurong West NPC,Snatch Theft,5
+2015,Jurong Police Division - Jurong West NPC,Theft Of Motor Vehicle,19
+2015,Jurong Police Division - Jurong West NPC,Outrage Of Modesty,40
+2015,Jurong Police Division - Nanyang NPC,Robbery,3
+2015,Jurong Police Division - Nanyang NPC,Housebreaking,3
+2015,Jurong Police Division - Nanyang NPC,Snatch Theft,0
+2015,Jurong Police Division - Nanyang NPC,Theft Of Motor Vehicle,13
+2015,Jurong Police Division - Nanyang NPC,Outrage Of Modesty,45
+2015,Jurong Police Division - Woodlands NPC,Robbery,na
+2015,Jurong Police Division - Woodlands NPC,Housebreaking,na
+2015,Jurong Police Division - Woodlands NPC,Snatch Theft,na
+2015,Jurong Police Division - Woodlands NPC,Theft Of Motor Vehicle,na
+2015,Jurong Police Division - Woodlands NPC,Outrage Of Modesty,na
+2015,Jurong Police Division - Woodlands East NPC,Robbery,1
+2015,Jurong Police Division - Woodlands East NPC,Housebreaking,2
+2015,Jurong Police Division - Woodlands East NPC,Snatch Theft,1
+2015,Jurong Police Division - Woodlands East NPC,Theft Of Motor Vehicle,13
+2015,Jurong Police Division - Woodlands East NPC,Outrage Of Modesty,33
+2015,Jurong Police Division - Woodlands West NPC,Robbery,6
+2015,Jurong Police Division - Woodlands West NPC,Housebreaking,12
+2015,Jurong Police Division - Woodlands West NPC,Snatch Theft,4
+2015,Jurong Police Division - Woodlands West NPC,Theft Of Motor Vehicle,15
+2015,Jurong Police Division - Woodlands West NPC,Outrage Of Modesty,45
+2015,Woodlands Police Division - Total,Robbery,-
+2015,Woodlands Police Division - Total,Housebreaking,-
+2015,Woodlands Police Division - Total,Snatch Theft,-
+2015,Woodlands Police Division - Total,Theft Of Motor Vehicle,-
+2015,Woodlands Police Division - Total,Outrage Of Modesty,-
+2015,Woodlands Police Division - Woodlands East NPC,Robbery,-
+2015,Woodlands Police Division - Woodlands East NPC,Housebreaking,-
+2015,Woodlands Police Division - Woodlands East NPC,Snatch Theft,-
+2015,Woodlands Police Division - Woodlands East NPC,Theft Of Motor Vehicle,-
+2015,Woodlands Police Division - Woodlands East NPC,Outrage Of Modesty,-
+2015,Woodlands Police Division - Woodlands West NPC,Robbery,-
+2015,Woodlands Police Division - Woodlands West NPC,Housebreaking,-
+2015,Woodlands Police Division - Woodlands West NPC,Snatch Theft,-
+2015,Woodlands Police Division - Woodlands West NPC,Theft Of Motor Vehicle,-
+2015,Woodlands Police Division - Woodlands West NPC,Outrage Of Modesty,-
+2015,Woodlands Police Division - Yishun North NPC,Robbery,-
+2015,Woodlands Police Division - Yishun North NPC,Housebreaking,-
+2015,Woodlands Police Division - Yishun North NPC,Snatch Theft,-
+2015,Woodlands Police Division - Yishun North NPC,Theft Of Motor Vehicle,-
+2015,Woodlands Police Division - Yishun North NPC,Outrage Of Modesty,-
+2015,Woodlands Police Division - Yishun South NPC,Robbery,-
+2015,Woodlands Police Division - Yishun South NPC,Housebreaking,-
+2015,Woodlands Police Division - Yishun South NPC,Snatch Theft,-
+2015,Woodlands Police Division - Yishun South NPC,Theft Of Motor Vehicle,-
+2015,Woodlands Police Division - Yishun South NPC,Outrage Of Modesty,-
+2015,Woodlands Police Division - Sembawang NPC,Robbery,-
+2015,Woodlands Police Division - Sembawang NPC,Housebreaking,-
+2015,Woodlands Police Division - Sembawang NPC,Snatch Theft,-
+2015,Woodlands Police Division - Sembawang NPC,Theft Of Motor Vehicle,-
+2015,Woodlands Police Division - Sembawang NPC,Outrage Of Modesty,-
+2016,Central Police Division - Total,Robbery,15
+2016,Central Police Division - Total,Housebreaking,18
+2016,Central Police Division - Total,Snatch Theft,6
+2016,Central Police Division - Total,Theft Of Motor Vehicle,13
+2016,Central Police Division - Total,Outrage Of Modesty,164
+2016,Central Police Division - Bukit Merah East NPC,Robbery,3
+2016,Central Police Division - Bukit Merah East NPC,Housebreaking,2
+2016,Central Police Division - Bukit Merah East NPC,Snatch Theft,2
+2016,Central Police Division - Bukit Merah East NPC,Theft Of Motor Vehicle,1
+2016,Central Police Division - Bukit Merah East NPC,Outrage Of Modesty,47
+2016,Central Police Division - Marina Bay NPC,Robbery,0
+2016,Central Police Division - Marina Bay NPC,Housebreaking,7
+2016,Central Police Division - Marina Bay NPC,Snatch Theft,1
+2016,Central Police Division - Marina Bay NPC,Theft Of Motor Vehicle,4
+2016,Central Police Division - Marina Bay NPC,Outrage Of Modesty,69
+2016,Central Police Division - Rochor NPC,Robbery,12
+2016,Central Police Division - Rochor NPC,Housebreaking,9
+2016,Central Police Division - Rochor NPC,Snatch Theft,3
+2016,Central Police Division - Rochor NPC,Theft Of Motor Vehicle,8
+2016,Central Police Division - Rochor NPC,Outrage Of Modesty,48
+2016,Clementi Police Division - Total,Robbery,5
+2016,Clementi Police Division - Total,Housebreaking,26
+2016,Clementi Police Division - Total,Snatch Theft,3
+2016,Clementi Police Division - Total,Theft Of Motor Vehicle,16
+2016,Clementi Police Division - Total,Outrage Of Modesty,153
+2016,Clementi Police Division - Bukit Merah West NPC,Robbery,2
+2016,Clementi Police Division - Bukit Merah West NPC,Housebreaking,9
+2016,Clementi Police Division - Bukit Merah West NPC,Snatch Theft,1
+2016,Clementi Police Division - Bukit Merah West NPC,Theft Of Motor Vehicle,6
+2016,Clementi Police Division - Bukit Merah West NPC,Outrage Of Modesty,46
+2016,Clementi Police Division - Clementi NPC,Robbery,1
+2016,Clementi Police Division - Clementi NPC,Housebreaking,4
+2016,Clementi Police Division - Clementi NPC,Snatch Theft,0
+2016,Clementi Police Division - Clementi NPC,Theft Of Motor Vehicle,3
+2016,Clementi Police Division - Clementi NPC,Outrage Of Modesty,29
+2016,Clementi Police Division - Jurong East NPC,Robbery,1
+2016,Clementi Police Division - Jurong East NPC,Housebreaking,3
+2016,Clementi Police Division - Jurong East NPC,Snatch Theft,2
+2016,Clementi Police Division - Jurong East NPC,Theft Of Motor Vehicle,3
+2016,Clementi Police Division - Jurong East NPC,Outrage Of Modesty,31
+2016,Clementi Police Division - Queenstown NPC,Robbery,1
+2016,Clementi Police Division - Queenstown NPC,Housebreaking,10
+2016,Clementi Police Division - Queenstown NPC,Snatch Theft,0
+2016,Clementi Police Division - Queenstown NPC,Theft Of Motor Vehicle,4
+2016,Clementi Police Division - Queenstown NPC,Outrage Of Modesty,47
+2016,Tanglin Police Division - Total,Robbery,14
+2016,Tanglin Police Division - Total,Housebreaking,31
+2016,Tanglin Police Division - Total,Snatch Theft,4
+2016,Tanglin Police Division - Total,Theft Of Motor Vehicle,12
+2016,Tanglin Police Division - Total,Outrage Of Modesty,206
+2016,Tanglin Police Division - Bishan NPC,Robbery,4
+2016,Tanglin Police Division - Bishan NPC,Housebreaking,4
+2016,Tanglin Police Division - Bishan NPC,Snatch Theft,0
+2016,Tanglin Police Division - Bishan NPC,Theft Of Motor Vehicle,5
+2016,Tanglin Police Division - Bishan NPC,Outrage Of Modesty,22
+2016,Tanglin Police Division - Bukit Timah NPC,Robbery,0
+2016,Tanglin Police Division - Bukit Timah NPC,Housebreaking,8
+2016,Tanglin Police Division - Bukit Timah NPC,Snatch Theft,0
+2016,Tanglin Police Division - Bukit Timah NPC,Theft Of Motor Vehicle,2
+2016,Tanglin Police Division - Bukit Timah NPC,Outrage Of Modesty,17
+2016,Tanglin Police Division - Kampong Java NPC,Robbery,2
+2016,Tanglin Police Division - Kampong Java NPC,Housebreaking,3
+2016,Tanglin Police Division - Kampong Java NPC,Snatch Theft,1
+2016,Tanglin Police Division - Kampong Java NPC,Theft Of Motor Vehicle,1
+2016,Tanglin Police Division - Kampong Java NPC,Outrage Of Modesty,25
+2016,Tanglin Police Division - Orchard NPC,Robbery,5
+2016,Tanglin Police Division - Orchard NPC,Housebreaking,8
+2016,Tanglin Police Division - Orchard NPC,Snatch Theft,0
+2016,Tanglin Police Division - Orchard NPC,Theft Of Motor Vehicle,3
+2016,Tanglin Police Division - Orchard NPC,Outrage Of Modesty,108
+2016,Tanglin Police Division - Toa Payoh NPC,Robbery,3
+2016,Tanglin Police Division - Toa Payoh NPC,Housebreaking,8
+2016,Tanglin Police Division - Toa Payoh NPC,Snatch Theft,3
+2016,Tanglin Police Division - Toa Payoh NPC,Theft Of Motor Vehicle,1
+2016,Tanglin Police Division - Toa Payoh NPC,Outrage Of Modesty,34
+2016,Ang Mo Kio Police Division - Total,Robbery,17
+2016,Ang Mo Kio Police Division - Total,Housebreaking,39
+2016,Ang Mo Kio Police Division - Total,Snatch Theft,9
+2016,Ang Mo Kio Police Division - Total,Theft Of Motor Vehicle,32
+2016,Ang Mo Kio Police Division - Total,Outrage Of Modesty,258
+2016,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Robbery,3
+2016,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Housebreaking,4
+2016,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Snatch Theft,1
+2016,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Theft Of Motor Vehicle,5
+2016,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Outrage Of Modesty,24
+2016,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Robbery,2
+2016,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Housebreaking,3
+2016,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Snatch Theft,3
+2016,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Theft Of Motor Vehicle,1
+2016,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Outrage Of Modesty,29
+2016,Ang Mo Kio Police Division - Hougang NPC,Robbery,2
+2016,Ang Mo Kio Police Division - Hougang NPC,Housebreaking,7
+2016,Ang Mo Kio Police Division - Hougang NPC,Snatch Theft,3
+2016,Ang Mo Kio Police Division - Hougang NPC,Theft Of Motor Vehicle,10
+2016,Ang Mo Kio Police Division - Hougang NPC,Outrage Of Modesty,39
+2016,Ang Mo Kio Police Division - Punggol NPC,Robbery,2
+2016,Ang Mo Kio Police Division - Punggol NPC,Housebreaking,6
+2016,Ang Mo Kio Police Division - Punggol NPC,Snatch Theft,0
+2016,Ang Mo Kio Police Division - Punggol NPC,Theft Of Motor Vehicle,0
+2016,Ang Mo Kio Police Division - Punggol NPC,Outrage Of Modesty,25
+2016,Ang Mo Kio Police Division - Sembawang NPC,Robbery,0
+2016,Ang Mo Kio Police Division - Sembawang NPC,Housebreaking,5
+2016,Ang Mo Kio Police Division - Sembawang NPC,Snatch Theft,0
+2016,Ang Mo Kio Police Division - Sembawang NPC,Theft Of Motor Vehicle,1
+2016,Ang Mo Kio Police Division - Sembawang NPC,Outrage Of Modesty,16
+2016,Ang Mo Kio Police Division - Sengkang NPC,Robbery,4
+2016,Ang Mo Kio Police Division - Sengkang NPC,Housebreaking,1
+2016,Ang Mo Kio Police Division - Sengkang NPC,Snatch Theft,1
+2016,Ang Mo Kio Police Division - Sengkang NPC,Theft Of Motor Vehicle,2
+2016,Ang Mo Kio Police Division - Sengkang NPC,Outrage Of Modesty,34
+2016,Ang Mo Kio Police Division - Serangoon NPC,Robbery,2
+2016,Ang Mo Kio Police Division - Serangoon NPC,Housebreaking,8
+2016,Ang Mo Kio Police Division - Serangoon NPC,Snatch Theft,0
+2016,Ang Mo Kio Police Division - Serangoon NPC,Theft Of Motor Vehicle,3
+2016,Ang Mo Kio Police Division - Serangoon NPC,Outrage Of Modesty,28
+2016,Ang Mo Kio Police Division - Yishun North NPC,Robbery,1
+2016,Ang Mo Kio Police Division - Yishun North NPC,Housebreaking,5
+2016,Ang Mo Kio Police Division - Yishun North NPC,Snatch Theft,1
+2016,Ang Mo Kio Police Division - Yishun North NPC,Theft Of Motor Vehicle,5
+2016,Ang Mo Kio Police Division - Yishun North NPC,Outrage Of Modesty,33
+2016,Ang Mo Kio Police Division - Yishun South NPC,Robbery,1
+2016,Ang Mo Kio Police Division - Yishun South NPC,Housebreaking,0
+2016,Ang Mo Kio Police Division - Yishun South NPC,Snatch Theft,0
+2016,Ang Mo Kio Police Division - Yishun South NPC,Theft Of Motor Vehicle,5
+2016,Ang Mo Kio Police Division - Yishun South NPC,Outrage Of Modesty,29
+2016,Bedok Police Division - Total,Robbery,31
+2016,Bedok Police Division - Total,Housebreaking,45
+2016,Bedok Police Division - Total,Snatch Theft,21
+2016,Bedok Police Division - Total,Theft Of Motor Vehicle,41
+2016,Bedok Police Division - Total,Outrage Of Modesty,239
+2016,Bedok Police Division - Bedok North NPC,Robbery,1
+2016,Bedok Police Division - Bedok North NPC,Housebreaking,6
+2016,Bedok Police Division - Bedok North NPC,Snatch Theft,2
+2016,Bedok Police Division - Bedok North NPC,Theft Of Motor Vehicle,4
+2016,Bedok Police Division - Bedok North NPC,Outrage Of Modesty,44
+2016,Bedok Police Division - Bedok South NPC,Robbery,2
+2016,Bedok Police Division - Bedok South NPC,Housebreaking,6
+2016,Bedok Police Division - Bedok South NPC,Snatch Theft,1
+2016,Bedok Police Division - Bedok South NPC,Theft Of Motor Vehicle,4
+2016,Bedok Police Division - Bedok South NPC,Outrage Of Modesty,22
+2016,Bedok Police Division - Changi NPC,Robbery,3
+2016,Bedok Police Division - Changi NPC,Housebreaking,0
+2016,Bedok Police Division - Changi NPC,Snatch Theft,1
+2016,Bedok Police Division - Changi NPC,Theft Of Motor Vehicle,3
+2016,Bedok Police Division - Changi NPC,Outrage Of Modesty,17
+2016,Bedok Police Division - Geylang NPC,Robbery,16
+2016,Bedok Police Division - Geylang NPC,Housebreaking,17
+2016,Bedok Police Division - Geylang NPC,Snatch Theft,9
+2016,Bedok Police Division - Geylang NPC,Theft Of Motor Vehicle,17
+2016,Bedok Police Division - Geylang NPC,Outrage Of Modesty,64
+2016,Bedok Police Division - Marine Parade NPC,Robbery,1
+2016,Bedok Police Division - Marine Parade NPC,Housebreaking,11
+2016,Bedok Police Division - Marine Parade NPC,Snatch Theft,1
+2016,Bedok Police Division - Marine Parade NPC,Theft Of Motor Vehicle,3
+2016,Bedok Police Division - Marine Parade NPC,Outrage Of Modesty,28
+2016,Bedok Police Division - Pasir Ris NPC,Robbery,1
+2016,Bedok Police Division - Pasir Ris NPC,Housebreaking,0
+2016,Bedok Police Division - Pasir Ris NPC,Snatch Theft,1
+2016,Bedok Police Division - Pasir Ris NPC,Theft Of Motor Vehicle,3
+2016,Bedok Police Division - Pasir Ris NPC,Outrage Of Modesty,32
+2016,Bedok Police Division - Tampines NPC,Robbery,7
+2016,Bedok Police Division - Tampines NPC,Housebreaking,5
+2016,Bedok Police Division - Tampines NPC,Snatch Theft,6
+2016,Bedok Police Division - Tampines NPC,Theft Of Motor Vehicle,7
+2016,Bedok Police Division - Tampines NPC,Outrage Of Modesty,32
+2016,Jurong Police Division - Total,Robbery,14
+2016,Jurong Police Division - Total,Housebreaking,53
+2016,Jurong Police Division - Total,Snatch Theft,20
+2016,Jurong Police Division - Total,Theft Of Motor Vehicle,51
+2016,Jurong Police Division - Total,Outrage Of Modesty,254
+2016,Jurong Police Division - Bukit Batok NPC,Robbery,1
+2016,Jurong Police Division - Bukit Batok NPC,Housebreaking,7
+2016,Jurong Police Division - Bukit Batok NPC,Snatch Theft,4
+2016,Jurong Police Division - Bukit Batok NPC,Theft Of Motor Vehicle,2
+2016,Jurong Police Division - Bukit Batok NPC,Outrage Of Modesty,35
+2016,Jurong Police Division - Bukit Panjang NPC,Robbery,3
+2016,Jurong Police Division - Bukit Panjang NPC,Housebreaking,6
+2016,Jurong Police Division - Bukit Panjang NPC,Snatch Theft,0
+2016,Jurong Police Division - Bukit Panjang NPC,Theft Of Motor Vehicle,8
+2016,Jurong Police Division - Bukit Panjang NPC,Outrage Of Modesty,21
+2016,Jurong Police Division - Choa Chu Kang NPC,Robbery,1
+2016,Jurong Police Division - Choa Chu Kang NPC,Housebreaking,13
+2016,Jurong Police Division - Choa Chu Kang NPC,Snatch Theft,1
+2016,Jurong Police Division - Choa Chu Kang NPC,Theft Of Motor Vehicle,7
+2016,Jurong Police Division - Choa Chu Kang NPC,Outrage Of Modesty,34
+2016,Jurong Police Division - Jurong West NPC,Robbery,3
+2016,Jurong Police Division - Jurong West NPC,Housebreaking,8
+2016,Jurong Police Division - Jurong West NPC,Snatch Theft,4
+2016,Jurong Police Division - Jurong West NPC,Theft Of Motor Vehicle,4
+2016,Jurong Police Division - Jurong West NPC,Outrage Of Modesty,49
+2016,Jurong Police Division - Nanyang NPC,Robbery,2
+2016,Jurong Police Division - Nanyang NPC,Housebreaking,8
+2016,Jurong Police Division - Nanyang NPC,Snatch Theft,2
+2016,Jurong Police Division - Nanyang NPC,Theft Of Motor Vehicle,9
+2016,Jurong Police Division - Nanyang NPC,Outrage Of Modesty,46
+2016,Jurong Police Division - Woodlands NPC,Robbery,na
+2016,Jurong Police Division - Woodlands NPC,Housebreaking,na
+2016,Jurong Police Division - Woodlands NPC,Snatch Theft,na
+2016,Jurong Police Division - Woodlands NPC,Theft Of Motor Vehicle,na
+2016,Jurong Police Division - Woodlands NPC,Outrage Of Modesty,na
+2016,Jurong Police Division - Woodlands East NPC,Robbery,1
+2016,Jurong Police Division - Woodlands East NPC,Housebreaking,2
+2016,Jurong Police Division - Woodlands East NPC,Snatch Theft,3
+2016,Jurong Police Division - Woodlands East NPC,Theft Of Motor Vehicle,9
+2016,Jurong Police Division - Woodlands East NPC,Outrage Of Modesty,36
+2016,Jurong Police Division - Woodlands West NPC,Robbery,3
+2016,Jurong Police Division - Woodlands West NPC,Housebreaking,9
+2016,Jurong Police Division - Woodlands West NPC,Snatch Theft,6
+2016,Jurong Police Division - Woodlands West NPC,Theft Of Motor Vehicle,12
+2016,Jurong Police Division - Woodlands West NPC,Outrage Of Modesty,33
+2016,Woodlands Police Division - Total,Robbery,-
+2016,Woodlands Police Division - Total,Housebreaking,-
+2016,Woodlands Police Division - Total,Snatch Theft,-
+2016,Woodlands Police Division - Total,Theft Of Motor Vehicle,-
+2016,Woodlands Police Division - Total,Outrage Of Modesty,-
+2016,Woodlands Police Division - Woodlands East NPC,Robbery,-
+2016,Woodlands Police Division - Woodlands East NPC,Housebreaking,-
+2016,Woodlands Police Division - Woodlands East NPC,Snatch Theft,-
+2016,Woodlands Police Division - Woodlands East NPC,Theft Of Motor Vehicle,-
+2016,Woodlands Police Division - Woodlands East NPC,Outrage Of Modesty,-
+2016,Woodlands Police Division - Woodlands West NPC,Robbery,-
+2016,Woodlands Police Division - Woodlands West NPC,Housebreaking,-
+2016,Woodlands Police Division - Woodlands West NPC,Snatch Theft,-
+2016,Woodlands Police Division - Woodlands West NPC,Theft Of Motor Vehicle,-
+2016,Woodlands Police Division - Woodlands West NPC,Outrage Of Modesty,-
+2016,Woodlands Police Division - Yishun North NPC,Robbery,-
+2016,Woodlands Police Division - Yishun North NPC,Housebreaking,-
+2016,Woodlands Police Division - Yishun North NPC,Snatch Theft,-
+2016,Woodlands Police Division - Yishun North NPC,Theft Of Motor Vehicle,-
+2016,Woodlands Police Division - Yishun North NPC,Outrage Of Modesty,-
+2016,Woodlands Police Division - Yishun South NPC,Robbery,-
+2016,Woodlands Police Division - Yishun South NPC,Housebreaking,-
+2016,Woodlands Police Division - Yishun South NPC,Snatch Theft,-
+2016,Woodlands Police Division - Yishun South NPC,Theft Of Motor Vehicle,-
+2016,Woodlands Police Division - Yishun South NPC,Outrage Of Modesty,-
+2016,Woodlands Police Division - Sembawang NPC,Robbery,-
+2016,Woodlands Police Division - Sembawang NPC,Housebreaking,-
+2016,Woodlands Police Division - Sembawang NPC,Snatch Theft,-
+2016,Woodlands Police Division - Sembawang NPC,Theft Of Motor Vehicle,-
+2016,Woodlands Police Division - Sembawang NPC,Outrage Of Modesty,-
+2017,Central Police Division - Total,Robbery,14
+2017,Central Police Division - Total,Housebreaking,18
+2017,Central Police Division - Total,Snatch Theft,10
+2017,Central Police Division - Total,Theft Of Motor Vehicle,17
+2017,Central Police Division - Total,Outrage Of Modesty,254
+2017,Central Police Division - Bukit Merah East NPC,Robbery,2
+2017,Central Police Division - Bukit Merah East NPC,Housebreaking,7
+2017,Central Police Division - Bukit Merah East NPC,Snatch Theft,3
+2017,Central Police Division - Bukit Merah East NPC,Theft Of Motor Vehicle,6
+2017,Central Police Division - Bukit Merah East NPC,Outrage Of Modesty,71
+2017,Central Police Division - Marina Bay NPC,Robbery,4
+2017,Central Police Division - Marina Bay NPC,Housebreaking,5
+2017,Central Police Division - Marina Bay NPC,Snatch Theft,0
+2017,Central Police Division - Marina Bay NPC,Theft Of Motor Vehicle,6
+2017,Central Police Division - Marina Bay NPC,Outrage Of Modesty,119
+2017,Central Police Division - Rochor NPC,Robbery,8
+2017,Central Police Division - Rochor NPC,Housebreaking,6
+2017,Central Police Division - Rochor NPC,Snatch Theft,7
+2017,Central Police Division - Rochor NPC,Theft Of Motor Vehicle,5
+2017,Central Police Division - Rochor NPC,Outrage Of Modesty,63
+2017,Clementi Police Division - Total,Robbery,4
+2017,Clementi Police Division - Total,Housebreaking,22
+2017,Clementi Police Division - Total,Snatch Theft,7
+2017,Clementi Police Division - Total,Theft Of Motor Vehicle,15
+2017,Clementi Police Division - Total,Outrage Of Modesty,196
+2017,Clementi Police Division - Bukit Merah West NPC,Robbery,0
+2017,Clementi Police Division - Bukit Merah West NPC,Housebreaking,5
+2017,Clementi Police Division - Bukit Merah West NPC,Snatch Theft,4
+2017,Clementi Police Division - Bukit Merah West NPC,Theft Of Motor Vehicle,3
+2017,Clementi Police Division - Bukit Merah West NPC,Outrage Of Modesty,52
+2017,Clementi Police Division - Clementi NPC,Robbery,1
+2017,Clementi Police Division - Clementi NPC,Housebreaking,7
+2017,Clementi Police Division - Clementi NPC,Snatch Theft,1
+2017,Clementi Police Division - Clementi NPC,Theft Of Motor Vehicle,4
+2017,Clementi Police Division - Clementi NPC,Outrage Of Modesty,37
+2017,Clementi Police Division - Jurong East NPC,Robbery,2
+2017,Clementi Police Division - Jurong East NPC,Housebreaking,3
+2017,Clementi Police Division - Jurong East NPC,Snatch Theft,1
+2017,Clementi Police Division - Jurong East NPC,Theft Of Motor Vehicle,3
+2017,Clementi Police Division - Jurong East NPC,Outrage Of Modesty,55
+2017,Clementi Police Division - Queenstown NPC,Robbery,1
+2017,Clementi Police Division - Queenstown NPC,Housebreaking,7
+2017,Clementi Police Division - Queenstown NPC,Snatch Theft,1
+2017,Clementi Police Division - Queenstown NPC,Theft Of Motor Vehicle,5
+2017,Clementi Police Division - Queenstown NPC,Outrage Of Modesty,52
+2017,Tanglin Police Division - Total,Robbery,12
+2017,Tanglin Police Division - Total,Housebreaking,17
+2017,Tanglin Police Division - Total,Snatch Theft,1
+2017,Tanglin Police Division - Total,Theft Of Motor Vehicle,9
+2017,Tanglin Police Division - Total,Outrage Of Modesty,262
+2017,Tanglin Police Division - Bishan NPC,Robbery,2
+2017,Tanglin Police Division - Bishan NPC,Housebreaking,2
+2017,Tanglin Police Division - Bishan NPC,Snatch Theft,0
+2017,Tanglin Police Division - Bishan NPC,Theft Of Motor Vehicle,1
+2017,Tanglin Police Division - Bishan NPC,Outrage Of Modesty,24
+2017,Tanglin Police Division - Bukit Timah NPC,Robbery,0
+2017,Tanglin Police Division - Bukit Timah NPC,Housebreaking,2
+2017,Tanglin Police Division - Bukit Timah NPC,Snatch Theft,0
+2017,Tanglin Police Division - Bukit Timah NPC,Theft Of Motor Vehicle,0
+2017,Tanglin Police Division - Bukit Timah NPC,Outrage Of Modesty,23
+2017,Tanglin Police Division - Kampong Java NPC,Robbery,2
+2017,Tanglin Police Division - Kampong Java NPC,Housebreaking,3
+2017,Tanglin Police Division - Kampong Java NPC,Snatch Theft,0
+2017,Tanglin Police Division - Kampong Java NPC,Theft Of Motor Vehicle,1
+2017,Tanglin Police Division - Kampong Java NPC,Outrage Of Modesty,32
+2017,Tanglin Police Division - Orchard NPC,Robbery,5
+2017,Tanglin Police Division - Orchard NPC,Housebreaking,3
+2017,Tanglin Police Division - Orchard NPC,Snatch Theft,1
+2017,Tanglin Police Division - Orchard NPC,Theft Of Motor Vehicle,3
+2017,Tanglin Police Division - Orchard NPC,Outrage Of Modesty,146
+2017,Tanglin Police Division - Toa Payoh NPC,Robbery,3
+2017,Tanglin Police Division - Toa Payoh NPC,Housebreaking,7
+2017,Tanglin Police Division - Toa Payoh NPC,Snatch Theft,0
+2017,Tanglin Police Division - Toa Payoh NPC,Theft Of Motor Vehicle,4
+2017,Tanglin Police Division - Toa Payoh NPC,Outrage Of Modesty,37
+2017,Ang Mo Kio Police Division - Total,Robbery,9
+2017,Ang Mo Kio Police Division - Total,Housebreaking,25
+2017,Ang Mo Kio Police Division - Total,Snatch Theft,15
+2017,Ang Mo Kio Police Division - Total,Theft Of Motor Vehicle,35
+2017,Ang Mo Kio Police Division - Total,Outrage Of Modesty,301
+2017,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Robbery,1
+2017,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Housebreaking,1
+2017,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Snatch Theft,3
+2017,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Theft Of Motor Vehicle,2
+2017,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Outrage Of Modesty,27
+2017,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Robbery,0
+2017,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Housebreaking,4
+2017,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Snatch Theft,2
+2017,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Theft Of Motor Vehicle,3
+2017,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Outrage Of Modesty,26
+2017,Ang Mo Kio Police Division - Hougang NPC,Robbery,1
+2017,Ang Mo Kio Police Division - Hougang NPC,Housebreaking,4
+2017,Ang Mo Kio Police Division - Hougang NPC,Snatch Theft,3
+2017,Ang Mo Kio Police Division - Hougang NPC,Theft Of Motor Vehicle,4
+2017,Ang Mo Kio Police Division - Hougang NPC,Outrage Of Modesty,43
+2017,Ang Mo Kio Police Division - Punggol NPC,Robbery,2
+2017,Ang Mo Kio Police Division - Punggol NPC,Housebreaking,3
+2017,Ang Mo Kio Police Division - Punggol NPC,Snatch Theft,1
+2017,Ang Mo Kio Police Division - Punggol NPC,Theft Of Motor Vehicle,3
+2017,Ang Mo Kio Police Division - Punggol NPC,Outrage Of Modesty,21
+2017,Ang Mo Kio Police Division - Sembawang NPC,Robbery,1
+2017,Ang Mo Kio Police Division - Sembawang NPC,Housebreaking,0
+2017,Ang Mo Kio Police Division - Sembawang NPC,Snatch Theft,1
+2017,Ang Mo Kio Police Division - Sembawang NPC,Theft Of Motor Vehicle,2
+2017,Ang Mo Kio Police Division - Sembawang NPC,Outrage Of Modesty,32
+2017,Ang Mo Kio Police Division - Sengkang NPC,Robbery,0
+2017,Ang Mo Kio Police Division - Sengkang NPC,Housebreaking,2
+2017,Ang Mo Kio Police Division - Sengkang NPC,Snatch Theft,3
+2017,Ang Mo Kio Police Division - Sengkang NPC,Theft Of Motor Vehicle,6
+2017,Ang Mo Kio Police Division - Sengkang NPC,Outrage Of Modesty,61
+2017,Ang Mo Kio Police Division - Serangoon NPC,Robbery,1
+2017,Ang Mo Kio Police Division - Serangoon NPC,Housebreaking,2
+2017,Ang Mo Kio Police Division - Serangoon NPC,Snatch Theft,0
+2017,Ang Mo Kio Police Division - Serangoon NPC,Theft Of Motor Vehicle,2
+2017,Ang Mo Kio Police Division - Serangoon NPC,Outrage Of Modesty,24
+2017,Ang Mo Kio Police Division - Yishun North NPC,Robbery,3
+2017,Ang Mo Kio Police Division - Yishun North NPC,Housebreaking,7
+2017,Ang Mo Kio Police Division - Yishun North NPC,Snatch Theft,2
+2017,Ang Mo Kio Police Division - Yishun North NPC,Theft Of Motor Vehicle,10
+2017,Ang Mo Kio Police Division - Yishun North NPC,Outrage Of Modesty,39
+2017,Ang Mo Kio Police Division - Yishun South NPC,Robbery,0
+2017,Ang Mo Kio Police Division - Yishun South NPC,Housebreaking,2
+2017,Ang Mo Kio Police Division - Yishun South NPC,Snatch Theft,0
+2017,Ang Mo Kio Police Division - Yishun South NPC,Theft Of Motor Vehicle,3
+2017,Ang Mo Kio Police Division - Yishun South NPC,Outrage Of Modesty,27
+2017,Bedok Police Division - Total,Robbery,17
+2017,Bedok Police Division - Total,Housebreaking,44
+2017,Bedok Police Division - Total,Snatch Theft,8
+2017,Bedok Police Division - Total,Theft Of Motor Vehicle,35
+2017,Bedok Police Division - Total,Outrage Of Modesty,235
+2017,Bedok Police Division - Bedok North NPC,Robbery,1
+2017,Bedok Police Division - Bedok North NPC,Housebreaking,5
+2017,Bedok Police Division - Bedok North NPC,Snatch Theft,0
+2017,Bedok Police Division - Bedok North NPC,Theft Of Motor Vehicle,4
+2017,Bedok Police Division - Bedok North NPC,Outrage Of Modesty,33
+2017,Bedok Police Division - Bedok South NPC,Robbery,0
+2017,Bedok Police Division - Bedok South NPC,Housebreaking,9
+2017,Bedok Police Division - Bedok South NPC,Snatch Theft,2
+2017,Bedok Police Division - Bedok South NPC,Theft Of Motor Vehicle,2
+2017,Bedok Police Division - Bedok South NPC,Outrage Of Modesty,30
+2017,Bedok Police Division - Changi NPC,Robbery,0
+2017,Bedok Police Division - Changi NPC,Housebreaking,6
+2017,Bedok Police Division - Changi NPC,Snatch Theft,1
+2017,Bedok Police Division - Changi NPC,Theft Of Motor Vehicle,1
+2017,Bedok Police Division - Changi NPC,Outrage Of Modesty,23
+2017,Bedok Police Division - Geylang NPC,Robbery,12
+2017,Bedok Police Division - Geylang NPC,Housebreaking,14
+2017,Bedok Police Division - Geylang NPC,Snatch Theft,4
+2017,Bedok Police Division - Geylang NPC,Theft Of Motor Vehicle,6
+2017,Bedok Police Division - Geylang NPC,Outrage Of Modesty,68
+2017,Bedok Police Division - Marine Parade NPC,Robbery,1
+2017,Bedok Police Division - Marine Parade NPC,Housebreaking,6
+2017,Bedok Police Division - Marine Parade NPC,Snatch Theft,0
+2017,Bedok Police Division - Marine Parade NPC,Theft Of Motor Vehicle,2
+2017,Bedok Police Division - Marine Parade NPC,Outrage Of Modesty,26
+2017,Bedok Police Division - Pasir Ris NPC,Robbery,1
+2017,Bedok Police Division - Pasir Ris NPC,Housebreaking,2
+2017,Bedok Police Division - Pasir Ris NPC,Snatch Theft,0
+2017,Bedok Police Division - Pasir Ris NPC,Theft Of Motor Vehicle,2
+2017,Bedok Police Division - Pasir Ris NPC,Outrage Of Modesty,18
+2017,Bedok Police Division - Tampines NPC,Robbery,2
+2017,Bedok Police Division - Tampines NPC,Housebreaking,2
+2017,Bedok Police Division - Tampines NPC,Snatch Theft,1
+2017,Bedok Police Division - Tampines NPC,Theft Of Motor Vehicle,18
+2017,Bedok Police Division - Tampines NPC,Outrage Of Modesty,35
+2017,Jurong Police Division - Total,Robbery,13
+2017,Jurong Police Division - Total,Housebreaking,29
+2017,Jurong Police Division - Total,Snatch Theft,8
+2017,Jurong Police Division - Total,Theft Of Motor Vehicle,31
+2017,Jurong Police Division - Total,Outrage Of Modesty,299
+2017,Jurong Police Division - Bukit Batok NPC,Robbery,2
+2017,Jurong Police Division - Bukit Batok NPC,Housebreaking,2
+2017,Jurong Police Division - Bukit Batok NPC,Snatch Theft,0
+2017,Jurong Police Division - Bukit Batok NPC,Theft Of Motor Vehicle,0
+2017,Jurong Police Division - Bukit Batok NPC,Outrage Of Modesty,46
+2017,Jurong Police Division - Bukit Panjang NPC,Robbery,1
+2017,Jurong Police Division - Bukit Panjang NPC,Housebreaking,8
+2017,Jurong Police Division - Bukit Panjang NPC,Snatch Theft,1
+2017,Jurong Police Division - Bukit Panjang NPC,Theft Of Motor Vehicle,0
+2017,Jurong Police Division - Bukit Panjang NPC,Outrage Of Modesty,20
+2017,Jurong Police Division - Choa Chu Kang NPC,Robbery,0
+2017,Jurong Police Division - Choa Chu Kang NPC,Housebreaking,4
+2017,Jurong Police Division - Choa Chu Kang NPC,Snatch Theft,2
+2017,Jurong Police Division - Choa Chu Kang NPC,Theft Of Motor Vehicle,2
+2017,Jurong Police Division - Choa Chu Kang NPC,Outrage Of Modesty,39
+2017,Jurong Police Division - Jurong West NPC,Robbery,4
+2017,Jurong Police Division - Jurong West NPC,Housebreaking,2
+2017,Jurong Police Division - Jurong West NPC,Snatch Theft,2
+2017,Jurong Police Division - Jurong West NPC,Theft Of Motor Vehicle,10
+2017,Jurong Police Division - Jurong West NPC,Outrage Of Modesty,41
+2017,Jurong Police Division - Nanyang NPC,Robbery,4
+2017,Jurong Police Division - Nanyang NPC,Housebreaking,6
+2017,Jurong Police Division - Nanyang NPC,Snatch Theft,0
+2017,Jurong Police Division - Nanyang NPC,Theft Of Motor Vehicle,4
+2017,Jurong Police Division - Nanyang NPC,Outrage Of Modesty,50
+2017,Jurong Police Division - Woodlands NPC,Robbery,na
+2017,Jurong Police Division - Woodlands NPC,Housebreaking,na
+2017,Jurong Police Division - Woodlands NPC,Snatch Theft,na
+2017,Jurong Police Division - Woodlands NPC,Theft Of Motor Vehicle,na
+2017,Jurong Police Division - Woodlands NPC,Outrage Of Modesty,na
+2017,Jurong Police Division - Woodlands East NPC,Robbery,1
+2017,Jurong Police Division - Woodlands East NPC,Housebreaking,4
+2017,Jurong Police Division - Woodlands East NPC,Snatch Theft,2
+2017,Jurong Police Division - Woodlands East NPC,Theft Of Motor Vehicle,6
+2017,Jurong Police Division - Woodlands East NPC,Outrage Of Modesty,47
+2017,Jurong Police Division - Woodlands West NPC,Robbery,1
+2017,Jurong Police Division - Woodlands West NPC,Housebreaking,3
+2017,Jurong Police Division - Woodlands West NPC,Snatch Theft,1
+2017,Jurong Police Division - Woodlands West NPC,Theft Of Motor Vehicle,9
+2017,Jurong Police Division - Woodlands West NPC,Outrage Of Modesty,56
+2017,Woodlands Police Division - Total,Robbery,-
+2017,Woodlands Police Division - Total,Housebreaking,-
+2017,Woodlands Police Division - Total,Snatch Theft,-
+2017,Woodlands Police Division - Total,Theft Of Motor Vehicle,-
+2017,Woodlands Police Division - Total,Outrage Of Modesty,-
+2017,Woodlands Police Division - Woodlands East NPC,Robbery,-
+2017,Woodlands Police Division - Woodlands East NPC,Housebreaking,-
+2017,Woodlands Police Division - Woodlands East NPC,Snatch Theft,-
+2017,Woodlands Police Division - Woodlands East NPC,Theft Of Motor Vehicle,-
+2017,Woodlands Police Division - Woodlands East NPC,Outrage Of Modesty,-
+2017,Woodlands Police Division - Woodlands West NPC,Robbery,-
+2017,Woodlands Police Division - Woodlands West NPC,Housebreaking,-
+2017,Woodlands Police Division - Woodlands West NPC,Snatch Theft,-
+2017,Woodlands Police Division - Woodlands West NPC,Theft Of Motor Vehicle,-
+2017,Woodlands Police Division - Woodlands West NPC,Outrage Of Modesty,-
+2017,Woodlands Police Division - Yishun North NPC,Robbery,-
+2017,Woodlands Police Division - Yishun North NPC,Housebreaking,-
+2017,Woodlands Police Division - Yishun North NPC,Snatch Theft,-
+2017,Woodlands Police Division - Yishun North NPC,Theft Of Motor Vehicle,-
+2017,Woodlands Police Division - Yishun North NPC,Outrage Of Modesty,-
+2017,Woodlands Police Division - Yishun South NPC,Robbery,-
+2017,Woodlands Police Division - Yishun South NPC,Housebreaking,-
+2017,Woodlands Police Division - Yishun South NPC,Snatch Theft,-
+2017,Woodlands Police Division - Yishun South NPC,Theft Of Motor Vehicle,-
+2017,Woodlands Police Division - Yishun South NPC,Outrage Of Modesty,-
+2017,Woodlands Police Division - Sembawang NPC,Robbery,-
+2017,Woodlands Police Division - Sembawang NPC,Housebreaking,-
+2017,Woodlands Police Division - Sembawang NPC,Snatch Theft,-
+2017,Woodlands Police Division - Sembawang NPC,Theft Of Motor Vehicle,-
+2017,Woodlands Police Division - Sembawang NPC,Outrage Of Modesty,-
+2018,Central Police Division - Total,Robbery,17
+2018,Central Police Division - Total,Housebreaking,24
+2018,Central Police Division - Total,Snatch Theft,15
+2018,Central Police Division - Total,Theft Of Motor Vehicle,7
+2018,Central Police Division - Total,Outrage Of Modesty,284
+2018,Central Police Division - Bukit Merah East NPC,Robbery,2
+2018,Central Police Division - Bukit Merah East NPC,Housebreaking,12
+2018,Central Police Division - Bukit Merah East NPC,Snatch Theft,8
+2018,Central Police Division - Bukit Merah East NPC,Theft Of Motor Vehicle,1
+2018,Central Police Division - Bukit Merah East NPC,Outrage Of Modesty,74
+2018,Central Police Division - Marina Bay NPC,Robbery,5
+2018,Central Police Division - Marina Bay NPC,Housebreaking,4
+2018,Central Police Division - Marina Bay NPC,Snatch Theft,3
+2018,Central Police Division - Marina Bay NPC,Theft Of Motor Vehicle,3
+2018,Central Police Division - Marina Bay NPC,Outrage Of Modesty,141
+2018,Central Police Division - Rochor NPC,Robbery,10
+2018,Central Police Division - Rochor NPC,Housebreaking,8
+2018,Central Police Division - Rochor NPC,Snatch Theft,4
+2018,Central Police Division - Rochor NPC,Theft Of Motor Vehicle,3
+2018,Central Police Division - Rochor NPC,Outrage Of Modesty,69
+2018,Clementi Police Division - Total,Robbery,3
+2018,Clementi Police Division - Total,Housebreaking,32
+2018,Clementi Police Division - Total,Snatch Theft,4
+2018,Clementi Police Division - Total,Theft Of Motor Vehicle,8
+2018,Clementi Police Division - Total,Outrage Of Modesty,166
+2018,Clementi Police Division - Bukit Merah West NPC,Robbery,1
+2018,Clementi Police Division - Bukit Merah West NPC,Housebreaking,5
+2018,Clementi Police Division - Bukit Merah West NPC,Snatch Theft,0
+2018,Clementi Police Division - Bukit Merah West NPC,Theft Of Motor Vehicle,2
+2018,Clementi Police Division - Bukit Merah West NPC,Outrage Of Modesty,44
+2018,Clementi Police Division - Clementi NPC,Robbery,2
+2018,Clementi Police Division - Clementi NPC,Housebreaking,8
+2018,Clementi Police Division - Clementi NPC,Snatch Theft,2
+2018,Clementi Police Division - Clementi NPC,Theft Of Motor Vehicle,0
+2018,Clementi Police Division - Clementi NPC,Outrage Of Modesty,28
+2018,Clementi Police Division - Jurong East NPC,Robbery,0
+2018,Clementi Police Division - Jurong East NPC,Housebreaking,8
+2018,Clementi Police Division - Jurong East NPC,Snatch Theft,0
+2018,Clementi Police Division - Jurong East NPC,Theft Of Motor Vehicle,3
+2018,Clementi Police Division - Jurong East NPC,Outrage Of Modesty,45
+2018,Clementi Police Division - Queenstown NPC,Robbery,0
+2018,Clementi Police Division - Queenstown NPC,Housebreaking,11
+2018,Clementi Police Division - Queenstown NPC,Snatch Theft,2
+2018,Clementi Police Division - Queenstown NPC,Theft Of Motor Vehicle,3
+2018,Clementi Police Division - Queenstown NPC,Outrage Of Modesty,49
+2018,Tanglin Police Division - Total,Robbery,10
+2018,Tanglin Police Division - Total,Housebreaking,24
+2018,Tanglin Police Division - Total,Snatch Theft,2
+2018,Tanglin Police Division - Total,Theft Of Motor Vehicle,6
+2018,Tanglin Police Division - Total,Outrage Of Modesty,311
+2018,Tanglin Police Division - Bishan NPC,Robbery,1
+2018,Tanglin Police Division - Bishan NPC,Housebreaking,5
+2018,Tanglin Police Division - Bishan NPC,Snatch Theft,0
+2018,Tanglin Police Division - Bishan NPC,Theft Of Motor Vehicle,0
+2018,Tanglin Police Division - Bishan NPC,Outrage Of Modesty,38
+2018,Tanglin Police Division - Bukit Timah NPC,Robbery,3
+2018,Tanglin Police Division - Bukit Timah NPC,Housebreaking,5
+2018,Tanglin Police Division - Bukit Timah NPC,Snatch Theft,0
+2018,Tanglin Police Division - Bukit Timah NPC,Theft Of Motor Vehicle,2
+2018,Tanglin Police Division - Bukit Timah NPC,Outrage Of Modesty,31
+2018,Tanglin Police Division - Kampong Java NPC,Robbery,1
+2018,Tanglin Police Division - Kampong Java NPC,Housebreaking,1
+2018,Tanglin Police Division - Kampong Java NPC,Snatch Theft,1
+2018,Tanglin Police Division - Kampong Java NPC,Theft Of Motor Vehicle,0
+2018,Tanglin Police Division - Kampong Java NPC,Outrage Of Modesty,30
+2018,Tanglin Police Division - Orchard NPC,Robbery,2
+2018,Tanglin Police Division - Orchard NPC,Housebreaking,9
+2018,Tanglin Police Division - Orchard NPC,Snatch Theft,0
+2018,Tanglin Police Division - Orchard NPC,Theft Of Motor Vehicle,1
+2018,Tanglin Police Division - Orchard NPC,Outrage Of Modesty,173
+2018,Tanglin Police Division - Toa Payoh NPC,Robbery,3
+2018,Tanglin Police Division - Toa Payoh NPC,Housebreaking,4
+2018,Tanglin Police Division - Toa Payoh NPC,Snatch Theft,1
+2018,Tanglin Police Division - Toa Payoh NPC,Theft Of Motor Vehicle,3
+2018,Tanglin Police Division - Toa Payoh NPC,Outrage Of Modesty,39
+2018,Ang Mo Kio Police Division - Total,Robbery,10
+2018,Ang Mo Kio Police Division - Total,Housebreaking,57
+2018,Ang Mo Kio Police Division - Total,Snatch Theft,12
+2018,Ang Mo Kio Police Division - Total,Theft Of Motor Vehicle,18
+2018,Ang Mo Kio Police Division - Total,Outrage Of Modesty,327
+2018,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Robbery,0
+2018,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Housebreaking,3
+2018,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Snatch Theft,1
+2018,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Theft Of Motor Vehicle,2
+2018,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Outrage Of Modesty,28
+2018,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Robbery,1
+2018,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Housebreaking,4
+2018,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Snatch Theft,3
+2018,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Theft Of Motor Vehicle,2
+2018,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Outrage Of Modesty,34
+2018,Ang Mo Kio Police Division - Hougang NPC,Robbery,4
+2018,Ang Mo Kio Police Division - Hougang NPC,Housebreaking,9
+2018,Ang Mo Kio Police Division - Hougang NPC,Snatch Theft,1
+2018,Ang Mo Kio Police Division - Hougang NPC,Theft Of Motor Vehicle,1
+2018,Ang Mo Kio Police Division - Hougang NPC,Outrage Of Modesty,52
+2018,Ang Mo Kio Police Division - Punggol NPC,Robbery,3
+2018,Ang Mo Kio Police Division - Punggol NPC,Housebreaking,5
+2018,Ang Mo Kio Police Division - Punggol NPC,Snatch Theft,1
+2018,Ang Mo Kio Police Division - Punggol NPC,Theft Of Motor Vehicle,1
+2018,Ang Mo Kio Police Division - Punggol NPC,Outrage Of Modesty,23
+2018,Ang Mo Kio Police Division - Sembawang NPC,Robbery,0
+2018,Ang Mo Kio Police Division - Sembawang NPC,Housebreaking,4
+2018,Ang Mo Kio Police Division - Sembawang NPC,Snatch Theft,0
+2018,Ang Mo Kio Police Division - Sembawang NPC,Theft Of Motor Vehicle,1
+2018,Ang Mo Kio Police Division - Sembawang NPC,Outrage Of Modesty,27
+2018,Ang Mo Kio Police Division - Sengkang NPC,Robbery,1
+2018,Ang Mo Kio Police Division - Sengkang NPC,Housebreaking,8
+2018,Ang Mo Kio Police Division - Sengkang NPC,Snatch Theft,1
+2018,Ang Mo Kio Police Division - Sengkang NPC,Theft Of Motor Vehicle,2
+2018,Ang Mo Kio Police Division - Sengkang NPC,Outrage Of Modesty,49
+2018,Ang Mo Kio Police Division - Serangoon NPC,Robbery,0
+2018,Ang Mo Kio Police Division - Serangoon NPC,Housebreaking,10
+2018,Ang Mo Kio Police Division - Serangoon NPC,Snatch Theft,2
+2018,Ang Mo Kio Police Division - Serangoon NPC,Theft Of Motor Vehicle,1
+2018,Ang Mo Kio Police Division - Serangoon NPC,Outrage Of Modesty,36
+2018,Ang Mo Kio Police Division - Yishun North NPC,Robbery,1
+2018,Ang Mo Kio Police Division - Yishun North NPC,Housebreaking,12
+2018,Ang Mo Kio Police Division - Yishun North NPC,Snatch Theft,3
+2018,Ang Mo Kio Police Division - Yishun North NPC,Theft Of Motor Vehicle,5
+2018,Ang Mo Kio Police Division - Yishun North NPC,Outrage Of Modesty,43
+2018,Ang Mo Kio Police Division - Yishun South NPC,Robbery,0
+2018,Ang Mo Kio Police Division - Yishun South NPC,Housebreaking,2
+2018,Ang Mo Kio Police Division - Yishun South NPC,Snatch Theft,0
+2018,Ang Mo Kio Police Division - Yishun South NPC,Theft Of Motor Vehicle,3
+2018,Ang Mo Kio Police Division - Yishun South NPC,Outrage Of Modesty,33
+2018,Bedok Police Division - Total,Robbery,13
+2018,Bedok Police Division - Total,Housebreaking,24
+2018,Bedok Police Division - Total,Snatch Theft,10
+2018,Bedok Police Division - Total,Theft Of Motor Vehicle,42
+2018,Bedok Police Division - Total,Outrage Of Modesty,288
+2018,Bedok Police Division - Bedok North NPC,Robbery,2
+2018,Bedok Police Division - Bedok North NPC,Housebreaking,3
+2018,Bedok Police Division - Bedok North NPC,Snatch Theft,0
+2018,Bedok Police Division - Bedok North NPC,Theft Of Motor Vehicle,9
+2018,Bedok Police Division - Bedok North NPC,Outrage Of Modesty,43
+2018,Bedok Police Division - Bedok South NPC,Robbery,0
+2018,Bedok Police Division - Bedok South NPC,Housebreaking,4
+2018,Bedok Police Division - Bedok South NPC,Snatch Theft,1
+2018,Bedok Police Division - Bedok South NPC,Theft Of Motor Vehicle,6
+2018,Bedok Police Division - Bedok South NPC,Outrage Of Modesty,20
+2018,Bedok Police Division - Changi NPC,Robbery,1
+2018,Bedok Police Division - Changi NPC,Housebreaking,2
+2018,Bedok Police Division - Changi NPC,Snatch Theft,0
+2018,Bedok Police Division - Changi NPC,Theft Of Motor Vehicle,2
+2018,Bedok Police Division - Changi NPC,Outrage Of Modesty,47
+2018,Bedok Police Division - Geylang NPC,Robbery,8
+2018,Bedok Police Division - Geylang NPC,Housebreaking,7
+2018,Bedok Police Division - Geylang NPC,Snatch Theft,9
+2018,Bedok Police Division - Geylang NPC,Theft Of Motor Vehicle,14
+2018,Bedok Police Division - Geylang NPC,Outrage Of Modesty,68
+2018,Bedok Police Division - Marine Parade NPC,Robbery,1
+2018,Bedok Police Division - Marine Parade NPC,Housebreaking,6
+2018,Bedok Police Division - Marine Parade NPC,Snatch Theft,0
+2018,Bedok Police Division - Marine Parade NPC,Theft Of Motor Vehicle,0
+2018,Bedok Police Division - Marine Parade NPC,Outrage Of Modesty,32
+2018,Bedok Police Division - Pasir Ris NPC,Robbery,0
+2018,Bedok Police Division - Pasir Ris NPC,Housebreaking,1
+2018,Bedok Police Division - Pasir Ris NPC,Snatch Theft,0
+2018,Bedok Police Division - Pasir Ris NPC,Theft Of Motor Vehicle,3
+2018,Bedok Police Division - Pasir Ris NPC,Outrage Of Modesty,32
+2018,Bedok Police Division - Tampines NPC,Robbery,1
+2018,Bedok Police Division - Tampines NPC,Housebreaking,1
+2018,Bedok Police Division - Tampines NPC,Snatch Theft,0
+2018,Bedok Police Division - Tampines NPC,Theft Of Motor Vehicle,8
+2018,Bedok Police Division - Tampines NPC,Outrage Of Modesty,45
+2018,Jurong Police Division - Total,Robbery,18
+2018,Jurong Police Division - Total,Housebreaking,41
+2018,Jurong Police Division - Total,Snatch Theft,5
+2018,Jurong Police Division - Total,Theft Of Motor Vehicle,32
+2018,Jurong Police Division - Total,Outrage Of Modesty,321
+2018,Jurong Police Division - Bukit Batok NPC,Robbery,1
+2018,Jurong Police Division - Bukit Batok NPC,Housebreaking,7
+2018,Jurong Police Division - Bukit Batok NPC,Snatch Theft,1
+2018,Jurong Police Division - Bukit Batok NPC,Theft Of Motor Vehicle,1
+2018,Jurong Police Division - Bukit Batok NPC,Outrage Of Modesty,52
+2018,Jurong Police Division - Bukit Panjang NPC,Robbery,1
+2018,Jurong Police Division - Bukit Panjang NPC,Housebreaking,4
+2018,Jurong Police Division - Bukit Panjang NPC,Snatch Theft,2
+2018,Jurong Police Division - Bukit Panjang NPC,Theft Of Motor Vehicle,3
+2018,Jurong Police Division - Bukit Panjang NPC,Outrage Of Modesty,36
+2018,Jurong Police Division - Choa Chu Kang NPC,Robbery,0
+2018,Jurong Police Division - Choa Chu Kang NPC,Housebreaking,8
+2018,Jurong Police Division - Choa Chu Kang NPC,Snatch Theft,0
+2018,Jurong Police Division - Choa Chu Kang NPC,Theft Of Motor Vehicle,3
+2018,Jurong Police Division - Choa Chu Kang NPC,Outrage Of Modesty,45
+2018,Jurong Police Division - Jurong West NPC,Robbery,3
+2018,Jurong Police Division - Jurong West NPC,Housebreaking,8
+2018,Jurong Police Division - Jurong West NPC,Snatch Theft,0
+2018,Jurong Police Division - Jurong West NPC,Theft Of Motor Vehicle,4
+2018,Jurong Police Division - Jurong West NPC,Outrage Of Modesty,47
+2018,Jurong Police Division - Nanyang NPC,Robbery,4
+2018,Jurong Police Division - Nanyang NPC,Housebreaking,7
+2018,Jurong Police Division - Nanyang NPC,Snatch Theft,1
+2018,Jurong Police Division - Nanyang NPC,Theft Of Motor Vehicle,12
+2018,Jurong Police Division - Nanyang NPC,Outrage Of Modesty,55
+2018,Jurong Police Division - Woodlands NPC,Robbery,na
+2018,Jurong Police Division - Woodlands NPC,Housebreaking,na
+2018,Jurong Police Division - Woodlands NPC,Snatch Theft,na
+2018,Jurong Police Division - Woodlands NPC,Theft Of Motor Vehicle,na
+2018,Jurong Police Division - Woodlands NPC,Outrage Of Modesty,na
+2018,Jurong Police Division - Woodlands East NPC,Robbery,0
+2018,Jurong Police Division - Woodlands East NPC,Housebreaking,2
+2018,Jurong Police Division - Woodlands East NPC,Snatch Theft,1
+2018,Jurong Police Division - Woodlands East NPC,Theft Of Motor Vehicle,7
+2018,Jurong Police Division - Woodlands East NPC,Outrage Of Modesty,41
+2018,Jurong Police Division - Woodlands West NPC,Robbery,9
+2018,Jurong Police Division - Woodlands West NPC,Housebreaking,5
+2018,Jurong Police Division - Woodlands West NPC,Snatch Theft,0
+2018,Jurong Police Division - Woodlands West NPC,Theft Of Motor Vehicle,2
+2018,Jurong Police Division - Woodlands West NPC,Outrage Of Modesty,43
+2018,Woodlands Police Division - Total,Robbery,0
+2018,Woodlands Police Division - Total,Housebreaking,2
+2018,Woodlands Police Division - Total,Snatch Theft,0
+2018,Woodlands Police Division - Total,Theft Of Motor Vehicle,1
+2018,Woodlands Police Division - Total,Outrage Of Modesty,15
+2018,Woodlands Police Division - Woodlands East NPC,Robbery,0
+2018,Woodlands Police Division - Woodlands East NPC,Housebreaking,0
+2018,Woodlands Police Division - Woodlands East NPC,Snatch Theft,0
+2018,Woodlands Police Division - Woodlands East NPC,Theft Of Motor Vehicle,0
+2018,Woodlands Police Division - Woodlands East NPC,Outrage Of Modesty,2
+2018,Woodlands Police Division - Woodlands West NPC,Robbery,0
+2018,Woodlands Police Division - Woodlands West NPC,Housebreaking,0
+2018,Woodlands Police Division - Woodlands West NPC,Snatch Theft,0
+2018,Woodlands Police Division - Woodlands West NPC,Theft Of Motor Vehicle,0
+2018,Woodlands Police Division - Woodlands West NPC,Outrage Of Modesty,7
+2018,Woodlands Police Division - Yishun North NPC,Robbery,0
+2018,Woodlands Police Division - Yishun North NPC,Housebreaking,2
+2018,Woodlands Police Division - Yishun North NPC,Snatch Theft,0
+2018,Woodlands Police Division - Yishun North NPC,Theft Of Motor Vehicle,0
+2018,Woodlands Police Division - Yishun North NPC,Outrage Of Modesty,4
+2018,Woodlands Police Division - Yishun South NPC,Robbery,0
+2018,Woodlands Police Division - Yishun South NPC,Housebreaking,0
+2018,Woodlands Police Division - Yishun South NPC,Snatch Theft,0
+2018,Woodlands Police Division - Yishun South NPC,Theft Of Motor Vehicle,0
+2018,Woodlands Police Division - Yishun South NPC,Outrage Of Modesty,1
+2018,Woodlands Police Division - Sembawang NPC,Robbery,0
+2018,Woodlands Police Division - Sembawang NPC,Housebreaking,0
+2018,Woodlands Police Division - Sembawang NPC,Snatch Theft,0
+2018,Woodlands Police Division - Sembawang NPC,Theft Of Motor Vehicle,1
+2018,Woodlands Police Division - Sembawang NPC,Outrage Of Modesty,1
