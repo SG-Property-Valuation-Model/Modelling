@@ -14,7 +14,8 @@ This repository contains project codes used in the data analysis and model exper
 - Dataset of resale transactions and property price index (PPI) from Real Estate Information System (REALIS) provided by the Urban Redevelopment Authority of Singapore (URA)
 - Geographic information from OneMap API developed by the Singapore Land Authority (SLA)
 - All other information are from Data.gov.sg
-For more detailed information regarding our datafiles, please refer to [this](https://github.com/SG-Property-Valuation-Model/Modelling/blob/main/Overview%20of%20Data%20Files.pdf)
+
+For more detailed information regarding our data files, please refer to [this](https://github.com/SG-Property-Valuation-Model/Modelling/blob/main/Overview%20of%20Data%20Files.pdf)
 
 # Models
 As  the dependent variable that we're predicting is continuous rather than in nature, we experimented with a variety of regression models. They range from a baseline Linear Regression, which is parsimonious and interpretable, to ones that are more complex such as Ensemble Learning Methods which use several techniques like Bagging, Boosting, and Stacking. We also looked into Neural Networks as they can learn the complex and non-linear patterns in a large dataset. Following are the models we have experimented with:
