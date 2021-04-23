@@ -50,3 +50,5 @@ Out of all the models that we experimented with, XGBoost performed best. Our tun
 - Zhou Kai Jing - [jayzhoukj](https://github.com/jayzhoukj)
 
 
+# License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/SG-Property-Valuation-Model/Modelling/blob/main/LICENSE) file for details.
