@@ -37,7 +37,7 @@ As our project focuses on predicting the **price of a property per square meter*
 | Mean Absolute Percentage Error (MAPE) | MAPE is expressed as a percentage, which is scale-independent and allows comparison of predicted values on different scales. It offers greater interpretability of error for the sellers as the margin of error is relative to the actual value. |
 
 # Final Model Performance
-Out of all the models that we experimented with, XGBoost performed best. Our tuned <b>XGBoost Regressor</b> predicts `Unit Price ($ PSM)` with a performance of: 
+Out of all the models that we experimented with, XGBoost performed best. Our tuned <b>XGBoost Regressor</b> predicts `Unit Price ($ PSM)` with the following performance: 
 - Mean Absolute Percentage Error (MAPE) of 4.31%
 - Root Mean Square Error (RMSE) of 794.80
 
